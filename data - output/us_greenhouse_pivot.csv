@@ -1,0 +1,233 @@
+"Economic Sector","year","emissions"
+"Transportation","1990",1527.0711882173
+"Transportation","1991",1480.9272119681
+"Transportation","1992",1540.5309362199
+"Transportation","1993",1577.5191124671
+"Transportation","1994",1632.1537449701
+"Transportation","1995",1667.3283605779
+"Transportation","1996",1723.4979366798
+"Transportation","1997",1750.0083386289
+"Transportation","1998",1792.365801394
+"Transportation","1999",1863.368589081
+"Transportation","2000",1901.2317611727
+"Transportation","2001",1881.7826423284
+"Transportation","2002",1923.216329648
+"Transportation","2003",1914.1933853651
+"Transportation","2004",1958.1443007211
+"Transportation","2005",1973.4203594631
+"Transportation","2006",1969.8152199867
+"Transportation","2007",1968.842070664
+"Transportation","2008",1871.6119360227
+"Transportation","2009",1792.9760798243
+"Transportation","2010",1801.0620363054
+"Transportation","2011",1768.6329960969
+"Transportation","2012",1750.4321269076
+"Transportation","2013",1756.4071872646
+"Transportation","2014",1791.6210933814
+"Transportation","2015",1800.2440913706
+"Transportation","2016",1835.6066043936
+"Transportation","2017",1852.3108499035
+"Transportation","2018",1882.5576122977
+"Electricity generation","1990",1875.5936586594
+"Electricity generation","1991",1871.6225297937
+"Electricity generation","1992",1886.5939705508
+"Electricity generation","1993",1962.3549704664
+"Electricity generation","1994",1987.1519987402
+"Electricity generation","1995",2003.8727152667
+"Electricity generation","1996",2076.8547155007
+"Electricity generation","1997",2143.0226024623
+"Electricity generation","1998",2229.5628216557
+"Electricity generation","1999",2243.618000332
+"Electricity generation","2000",2349.1574574007
+"Electricity generation","2001",2309.6653803598
+"Electricity generation","2002",2325.541878437
+"Electricity generation","2003",2356.8223782526
+"Electricity generation","2004",2389.8788409264
+"Electricity generation","2005",2455.929919642
+"Electricity generation","2006",2399.3096533315
+"Electricity generation","2007",2466.0017027891
+"Electricity generation","2008",2412.1926799281
+"Electricity generation","2009",2196.0334769093
+"Electricity generation","2010",2312.117766827
+"Electricity generation","2011",2209.8145940516
+"Electricity generation","2012",2070.9274975131
+"Electricity generation","2013",2088.886181959
+"Electricity generation","2014",2089.1205140832
+"Electricity generation","2015",1949.2336429765
+"Electricity generation","2016",1856.8059280907
+"Electricity generation","2017",1778.3955188522
+"Electricity generation","2018",1798.9251117667
+"Industry","1990",1628.6768669268
+"Industry","1991",1602.0459522061
+"Industry","1992",1633.0759162536
+"Industry","1993",1602.4081858965
+"Industry","1994",1628.1072514785
+"Industry","1995",1646.809849967
+"Industry","1996",1674.9088542905
+"Industry","1997",1672.3159530486
+"Industry","1998",1644.5099412369
+"Industry","1999",1592.5961041801
+"Industry","2000",1583.7681659204
+"Industry","2001",1532.4887658275
+"Industry","2002",1517.4036931993
+"Industry","2003",1494.8846341339
+"Industry","2004",1544.6036267456
+"Industry","2005",1501.6600883621
+"Industry","2006",1534.3126560757
+"Industry","2007",1524.1236501799
+"Industry","2008",1466.5341048335
+"Industry","2009",1311.265849161
+"Industry","2010",1403.7923683257
+"Industry","2011",1407.8326900105
+"Industry","2012",1400.9319774635
+"Industry","2013",1453.9545709635
+"Industry","2014",1438.777851543
+"Industry","2015",1429.7542926726
+"Industry","2016",1388.787802946
+"Industry","2017",1411.5266948697
+"Industry","2018",1470.7430374054
+"Agriculture","1990",598.9672181336
+"Agriculture","1991",589.6825198914
+"Agriculture","1992",590.5702461259
+"Agriculture","1993",618.6143882007
+"Agriculture","1994",605.833116608
+"Agriculture","1995",618.1379335791
+"Agriculture","1996",625.0734852899
+"Agriculture","1997",613.5751379514
+"Agriculture","1998",620.526431564
+"Agriculture","1999",611.5216900869
+"Agriculture","2000",596.4094216738
+"Agriculture","2001",617.1928662352
+"Agriculture","2002",620.0008921532
+"Agriculture","2003",620.2769080189
+"Agriculture","2004",632.8036821757
+"Agriculture","2005",627.538806799
+"Agriculture","2006",626.3007950388
+"Agriculture","2007",643.5481539486
+"Agriculture","2008",631.8578160373
+"Agriculture","2009",633.876228246
+"Agriculture","2010",642.1059920348
+"Agriculture","2011",623.2877821112
+"Agriculture","2012",606.8957640856
+"Agriculture","2013",645.1682591653
+"Agriculture","2014",654.9397514473
+"Agriculture","2015",655.9890694284
+"Agriculture","2016",640.9807342004
+"Agriculture","2017",642.3788142044
+"Agriculture","2018",658.5565496404
+"Commercial","1990",428.6683467197
+"Commercial","1991",435.6100125963
+"Commercial","1992",431.178707471
+"Commercial","1993",424.6274936339
+"Commercial","1994",428.0656221521
+"Commercial","1995",427.2842739133
+"Commercial","1996",434.8327684688
+"Commercial","1997",427.6240543821
+"Commercial","1998",402.0758519016
+"Commercial","1999",398.2188028213
+"Commercial","2000",412.0908147711
+"Commercial","2001",401.1059362549
+"Commercial","2002",402.0738322193
+"Commercial","2003",418.3200664177
+"Commercial","2004",415.9203449466
+"Commercial","2005",405.125416033
+"Commercial","2006",391.8042589501
+"Commercial","2007",406.4249240307
+"Commercial","2008",414.2491402704
+"Commercial","2009",417.8310285771
+"Commercial","2010",420.2497220127
+"Commercial","2011",415.6244945273
+"Commercial","2012",395.7557633149
+"Commercial","2013",419.0652860328
+"Commercial","2014",429.3524256262
+"Commercial","2015",442.5115163448
+"Commercial","2016",426.9911289336
+"Commercial","2017",426.7639846336
+"Commercial","2018",443.3217383765
+"Residential","1990",344.7016664955
+"Residential","1991",354.2476064409
+"Residential","1992",360.8211613835
+"Residential","1993",372.1649555816
+"Residential","1994",362.9392965953
+"Residential","1995",367.1586780385
+"Residential","1996",398.9954377764
+"Residential","1997",380.4227659673
+"Residential","1998",346.4771466772
+"Residential","1999",366.2787840535
+"Residential","2000",387.0014694268
+"Residential","2001",377.0906653048
+"Residential","2002",374.3268180503
+"Residential","2003",392.6852015918
+"Residential","2004",380.7602116099
+"Residential","2005",370.0534063044
+"Residential","2006",333.9419707795
+"Residential","2007",355.5328137463
+"Residential","2008",364.1653644804
+"Residential","2009",354.6827799646
+"Residential","2010",355.7228923736
+"Residential","2011",349.3173369302
+"Residential","2012",307.2732179934
+"Residential","2013",357.9959520424
+"Residential","2014",378.5751428155
+"Residential","2015",352.0027204812
+"Residential","2016",328.2770545594
+"Residential","2017",330.2347275592
+"Residential","2018",375.9190632487
+"U.S. territories","1990",33.3211856043
+"U.S. territories","1991",39.123870575
+"U.S. territories","1992",37.3156497547
+"U.S. territories","1993",39.0854473974
+"U.S. territories","1994",41.4794401209
+"U.S. territories","1995",40.4238289966
+"U.S. territories","1996",40.2438462082
+"U.S. territories","1997",41.8357829327
+"U.S. territories","1998",42.2322693044
+"U.S. territories","1999",50.0070131161
+"U.S. territories","2000",45.7378785658
+"U.S. territories","2001",53.148819845
+"U.S. territories","2002",51.8971583724
+"U.S. territories","2003",57.9298361643
+"U.S. territories","2004",59.5576767056
+"U.S. territories","2005",58.0431333437
+"U.S. territories","2006",58.9043365221
+"U.S. territories","2007",51.9811536652
+"U.S. territories","2008",49.5182604467
+"U.S. territories","2009",47.2406433592
+"U.S. territories","2010",46.562267098
+"U.S. territories","2011",46.0235756366
+"U.S. territories","2012",48.4584684626
+"U.S. territories","2013",48.0735915892
+"U.S. territories","2014",46.6298764111
+"U.S. territories","2015",46.6360938062
+"U.S. territories","2016",46.6311843868
+"U.S. territories","2017",46.6240496044
+"U.S. territories","2018",46.6265043141
+"Total","1990",6437.0001307566
+"Total","1991",6373.2597034715
+"Total","1992",6480.0865877594
+"Total","1993",6596.7745536436
+"Total","1994",6685.7304706651
+"Total","1995",6771.0156403391
+"Total","1996",6974.4070442143
+"Total","1997",7028.8046353733
+"Total","1998",7077.7502637338
+"Total","1999",7125.6089836709
+"Total","2000",7275.3969689313
+"Total","2001",7172.4750761556
+"Total","2002",7214.4606020795
+"Total","2003",7255.1124099443
+"Total","2004",7381.6686838309
+"Total","2005",7391.7711299473
+"Total","2006",7314.3888906844
+"Total","2007",7416.4544690238
+"Total","2008",7210.1293020191
+"Total","2009",6753.9060860415
+"Total","2010",6981.6130449772
+"Total","2011",6820.5334693643
+"Total","2012",6580.6748157407
+"Total","2013",6769.5510290168
+"Total","2014",6829.0166553077
+"Total","2015",6676.3714270803
+"Total","2016",6524.0804375105
+"Total","2017",6488.234639627
+"Total","2018",6676.6496170495

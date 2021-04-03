@@ -1,0 +1,371 @@
+"country","country_name","type","level","2016","2017","2018"
+"BE","Belgium","Conventional thermal","Level 1",30728,31316,30092.635
+"BE","Belgium","Nuclear","Level 1",41430,40128.5,26995.628
+"BE","Belgium","Hydro","Level 1",1476,1360.9,1239.248
+"BE","Belgium","Pumped hydro power","Level 2",1110,1093.2,983.19
+"BE","Belgium","Wind","Level 1",5340,6387.9,7177.346
+"BE","Belgium","Solar","Level 1",3070,3264.3,3488.979
+"BE","Belgium","Geothermal","Level 1",0,0,0
+"BE","Belgium","Other","Level 1",476,490.9,218.509
+"BE","Belgium","Total Renewable","Level 1",51316,51141.6,38901.201
+"BE","Belgium","% Renewable","Level 1",61.36075571,60.85264815,55.41834107
+"BG","Bulgaria","Conventional thermal","Level 1",18909,20234.209,19334
+"BG","Bulgaria","Nuclear","Level 1",14932,14718.368,15290
+"BG","Bulgaria","Hydro","Level 1",4535,3458.015,4690
+"BG","Bulgaria","Pumped hydro power","Level 2",619,603.713,987
+"BG","Bulgaria","Wind","Level 1",1425,1504.063,1326
+"BG","Bulgaria","Solar","Level 1",1386,1402.766,1043
+"BG","Bulgaria","Geothermal","Level 1",0,0,0
+"BG","Bulgaria","Other","Level 1",34,33.882,22
+"BG","Bulgaria","Total Renewable","Level 1",22278,21083.212,22349
+"BG","Bulgaria","% Renewable","Level 1",53.2456979,50.25194604,52.3493863
+"CZ","Czechia","Conventional thermal","Level 1",47817,47246.628,48042.915
+"CZ","Czechia","Nuclear","Level 1",22727,26785.6,28255.421
+"CZ","Czechia","Hydro","Level 1",3169,3007.403,2650.153
+"CZ","Czechia","Pumped hydro power","Level 2",1186,1155.492,1037.317
+"CZ","Czechia","Wind","Level 1",488,581.917,600.67
+"CZ","Czechia","Solar","Level 1",2110,2168.74,2317.645
+"CZ","Czechia","Geothermal","Level 1",0,0,0
+"CZ","Czechia","Other","Level 1",87,95.478,100.826
+"CZ","Czechia","Total Renewable","Level 1",28494,32543.66,33823.889
+"CZ","Czechia","% Renewable","Level 1",36.72664467,40.15690378,40.74924474
+"DK","Denmark","Conventional thermal","Level 1",15533.149,14104.326,14072.337
+"DK","Denmark","Nuclear","Level 1",0,0,0
+"DK","Denmark","Hydro","Level 1",19.272,17.871,14.929
+"DK","Denmark","Pumped hydro power","Level 2",0,0,0
+"DK","Denmark","Wind","Level 1",12781.731,14780,13898.806
+"DK","Denmark","Solar","Level 1",743.78,751.485,952.973
+"DK","Denmark","Geothermal","Level 1",0,0,0
+"DK","Denmark","Other","Level 1",0,0,0.044
+"DK","Denmark","Total Renewable","Level 1",13544.783,15549.356,14866.708
+"DK","Denmark","% Renewable","Level 1",46.58097075,52.43651025,51.3724119
+"DE","Germany","Conventional thermal","Level 1",390141,376128,320437.701
+"DE","Germany","Nuclear","Level 1",80038,72155,72274.133
+"DE","Germany","Hydro","Level 1",25690,25888,20041.878
+"DE","Germany","Pumped hydro power","Level 2",5451,5910,6661.083
+"DE","Germany","Wind","Level 1",78218,103707,112174
+"DE","Germany","Solar","Level 1",38098,39401,46184
+"DE","Germany","Geothermal","Level 1",165,157,165.25
+"DE","Germany","Other","Level 1",1805,1623,522.751
+"DE","Germany","Total Renewable","Level 1",222209,241308,250839.261
+"DE","Germany","% Renewable","Level 1",35.86295162,38.61119512,43.36322578
+"EE","Estonia","Conventional thermal","Level 1",9795,10485,10170.043
+"EE","Estonia","Nuclear","Level 1",0,0,0
+"EE","Estonia","Hydro","Level 1",35,26,18.2
+"EE","Estonia","Pumped hydro power","Level 2",0,0,0
+"EE","Estonia","Wind","Level 1",594,723,645.9
+"EE","Estonia","Solar","Level 1",0,0,0
+"EE","Estonia","Geothermal","Level 1",0,0,0
+"EE","Estonia","Other","Level 1",0,0,0
+"EE","Estonia","Total Renewable","Level 1",629,749,664.1
+"EE","Estonia","% Renewable","Level 1",6.034151957,6.667260103,6.129695722
+"IE","Ireland","Conventional thermal","Level 1",22571.711,21745.666,19963.734
+"IE","Ireland","Nuclear","Level 1",0,0,0
+"IE","Ireland","Hydro","Level 1",962.861,885.765,921.979
+"IE","Ireland","Pumped hydro power","Level 2",288.676,201.184,234.936
+"IE","Ireland","Wind","Level 1",6148.508,7444.742,8349.172
+"IE","Ireland","Solar","Level 1",6.16,10.801,0
+"IE","Ireland","Geothermal","Level 1",0,0,0
+"IE","Ireland","Other","Level 1",0,0,0
+"IE","Ireland","Total Renewable","Level 1",7117.529,8341.308,9271.151
+"IE","Ireland","% Renewable","Level 1",23.74257437,27.53983256,31.45981443
+"EL","Greece","Conventional thermal","Level 1",35586,37021.751,34803.244
+"EL","Greece","Nuclear","Level 1",0,0,0
+"EL","Greece","Hydro","Level 1",5565,4039,5802.417
+"EL","Greece","Pumped hydro power","Level 2",22,77.259,636.1
+"EL","Greece","Wind","Level 1",5146,5536.987,6300.26
+"EL","Greece","Solar","Level 1",3930,3991.477,3792.038
+"EL","Greece","Geothermal","Level 1",0,0,0
+"EL","Greece","Other","Level 1",0,0,10.99
+"EL","Greece","Total Renewable","Level 1",14641,13567.464,15894.715
+"EL","Greece","% Renewable","Level 1",29.13689825,26.7779913,30.95666536
+"ES","Spain","Conventional thermal","Level 1",108210,126885,110084.238
+"ES","Spain","Nuclear","Level 1",56100,55540,53270.8
+"ES","Spain","Hydro","Level 1",39180,20708,36083.636
+"ES","Spain","Pumped hydro power","Level 2",3410,2249,2009.408
+"ES","Spain","Wind","Level 1",47712,47929,49495.207
+"ES","Spain","Solar","Level 1",13051,13778,12137.315
+"ES","Spain","Geothermal","Level 1",0,0,0
+"ES","Spain","Other","Level 1",91,78,0
+"ES","Spain","Total Renewable","Level 1",156043,137955,150986.958
+"ES","Spain","% Renewable","Level 1",58.27849444,51.6362425,57.39190032
+"FR","France","Conventional thermal","Level 1",60607.854,68922.949,53956.44
+"FR","France","Nuclear","Level 1",384008.125,379093.955,393153.254
+"FR","France","Hydro","Level 1",64879.956,54432.864,68706.552
+"FR","France","Pumped hydro power","Level 2",4786.979,5070.791,9082.043
+"FR","France","Wind","Level 1",21472.916,24710.749,26134.02
+"FR","France","Solar","Level 1",8657.27,9572.843,9651.478
+"FR","France","Geothermal","Level 1",87.933,119.937,84.084
+"FR","France","Other","Level 1",559.515,673.71,0
+"FR","France","Total Renewable","Level 1",479106.2,467930.348,497729.388
+"FR","France","% Renewable","Level 1",87.89962909,86.2388955,88.7585423
+"HR","Croatia","Conventional thermal","Level 1",4241,4808,4155.654
+"HR","Croatia","Nuclear","Level 1",0,0,0
+"HR","Croatia","Hydro","Level 1",6967,5437.8,7681.337
+"HR","Croatia","Pumped hydro power","Level 2",205,200.3,583.988
+"HR","Croatia","Wind","Level 1",1010,1198.4,1350.356
+"HR","Croatia","Solar","Level 1",66,78.7,69.193
+"HR","Croatia","Geothermal","Level 1",0,0,0
+"HR","Croatia","Other","Level 1",0,0,0
+"HR","Croatia","Total Renewable","Level 1",8043,6714.9,9100.886
+"HR","Croatia","% Renewable","Level 1",64.40067259,57.27872936,65.75533824
+"IT","Italy","Conventional thermal","Level 1",190121,199722.444,185046
+"IT","Italy","Nuclear","Level 1",0,0,0
+"IT","Italy","Hydro","Level 1",43784.622,37556.721,49275
+"IT","Italy","Pumped hydro power","Level 2",1825.204,1825.96,1632
+"IT","Italy","Wind","Level 1",17523,17565.332,17318
+"IT","Italy","Solar","Level 1",21757,24016.821,22887
+"IT","Italy","Geothermal","Level 1",5867,5821.46,5708
+"IT","Italy","Other","Level 1",650,582.871,0
+"IT","Italy","Total Renewable","Level 1",88931.622,84960.334,95188
+"IT","Italy","% Renewable","Level 1",31.58892791,29.59345775,33.77065698
+"CY","Cyprus","Conventional thermal","Level 1",4295,4394.819,4380.143
+"CY","Cyprus","Nuclear","Level 1",0,0,0
+"CY","Cyprus","Hydro","Level 1",0,0,0
+"CY","Cyprus","Pumped hydro power","Level 2",0,0,0
+"CY","Cyprus","Wind","Level 1",226.701,211.448,220.613
+"CY","Cyprus","Solar","Level 1",145.937,172.013,190.329
+"CY","Cyprus","Geothermal","Level 1",0,0,0
+"CY","Cyprus","Other","Level 1",0,0,0
+"CY","Cyprus","Total Renewable","Level 1",372.638,383.461,410.942
+"CY","Cyprus","% Renewable","Level 1",7.983438304,8.02508434,8.57722207
+"LV","Latvia","Conventional thermal","Level 1",3277,2520.383,3962
+"LV","Latvia","Nuclear","Level 1",0,0,0
+"LV","Latvia","Hydro","Level 1",2523,4355.513,2418
+"LV","Latvia","Pumped hydro power","Level 2",0,0,0
+"LV","Latvia","Wind","Level 1",127,148.523,120
+"LV","Latvia","Solar","Level 1",0,0.44,0
+"LV","Latvia","Geothermal","Level 1",0,0,0
+"LV","Latvia","Other","Level 1",0,0,0
+"LV","Latvia","Total Renewable","Level 1",2650,4504.476,2538
+"LV","Latvia","% Renewable","Level 1",44.7106462,64.12194181,39.04615385
+"LT","Lithuania","Conventional thermal","Level 1",1566,1165.3,802.835
+"LT","Lithuania","Nuclear","Level 1",0,0,0
+"LT","Lithuania","Hydro","Level 1",1027,1164.6,940.677
+"LT","Lithuania","Pumped hydro power","Level 2",577,567.5,513.684
+"LT","Lithuania","Wind","Level 1",1130,1356.2,1136.357
+"LT","Lithuania","Solar","Level 1",66,67,80.014
+"LT","Lithuania","Geothermal","Level 1",0,0,0
+"LT","Lithuania","Other","Level 1",262,243,223.212
+"LT","Lithuania","Total Renewable","Level 1",2223,2587.8,2157.048
+"LT","Lithuania","% Renewable","Level 1",48.03370787,56.70523271,58.3493901
+"LU","Luxembourg","Conventional thermal","Level 1",449.564,450.167,463.132
+"LU","Luxembourg","Nuclear","Level 1",0,0,0
+"LU","Luxembourg","Hydro","Level 1",1516.352,1411.286,1326.329
+"LU","Luxembourg","Pumped hydro power","Level 2",1404.667,1329.398,1237.554
+"LU","Luxembourg","Wind","Level 1",101.486,234.823,263.708
+"LU","Luxembourg","Solar","Level 1",100.288,108.462,111.693
+"LU","Luxembourg","Geothermal","Level 1",0,0,0
+"LU","Luxembourg","Other","Level 1",0,0,0
+"LU","Luxembourg","Total Renewable","Level 1",1718.126,1754.571,1701.73
+"LU","Luxembourg","% Renewable","Level 1",48.09502522,49.64639165,50.01534204
+"HU","Hungary","Conventional thermal","Level 1",13156,14096,13489.644
+"HU","Hungary","Nuclear","Level 1",15162,15206,14854.662
+"HU","Hungary","Hydro","Level 1",253,214,215.862
+"HU","Hungary","Pumped hydro power","Level 2",0,0,0
+"HU","Hungary","Wind","Level 1",665,737,589.406
+"HU","Hungary","Solar","Level 1",241,346,594.258
+"HU","Hungary","Geothermal","Level 1",0,1,6.047
+"HU","Hungary","Other","Level 1",71,76,0
+"HU","Hungary","Total Renewable","Level 1",16321,16504,16260.235
+"HU","Hungary","% Renewable","Level 1",55.23554894,53.80101708,54.6564744
+"MT","Malta","Conventional thermal","Level 1",680,1439.156,1716.49
+"MT","Malta","Nuclear","Level 1",0,0,0
+"MT","Malta","Hydro","Level 1",0,0,0
+"MT","Malta","Pumped hydro power","Level 2",0,0,0
+"MT","Malta","Wind","Level 1",0,0.058,0
+"MT","Malta","Solar","Level 1",127.16,155.245,0
+"MT","Malta","Geothermal","Level 1",0,0,0
+"MT","Malta","Other","Level 1",0,0,0
+"MT","Malta","Total Renewable","Level 1",127.16,155.303,0
+"MT","Malta","% Renewable","Level 1",15.75400168,9.740168922,0
+"NL","Netherlands","Conventional thermal","Level 1",97271.8,97231.607,94450
+"NL","Netherlands","Nuclear","Level 1",3750,3277.664,3313.371
+"NL","Netherlands","Hydro","Level 1",100.079,60.757,86
+"NL","Netherlands","Pumped hydro power","Level 2",0,0,0
+"NL","Netherlands","Wind","Level 1",8170.462,10568.797,12279
+"NL","Netherlands","Solar","Level 1",1601.811,2204.344,2423
+"NL","Netherlands","Geothermal","Level 1",0,0,0
+"NL","Netherlands","Other","Level 1",138.101,121.865,0
+"NL","Netherlands","Total Renewable","Level 1",13622.352,16111.562,18101.371
+"NL","Netherlands","% Renewable","Level 1",12.26882427,14.19958328,16.08276367
+"AT","Austria","Conventional thermal","Level 1",18065.01,20135.846,16350.754
+"AT","Austria","Nuclear","Level 1",0,0,0
+"AT","Austria","Hydro","Level 1",40772.188,40098.554,37217.295
+"AT","Austria","Pumped hydro power","Level 2",2883.861,3683.851,13397.582
+"AT","Austria","Wind","Level 1",4968.262,6239.497,5857.059
+"AT","Austria","Solar","Level 1",1040.698,1204.311,0
+"AT","Austria","Geothermal","Level 1",0.02,0.086,0
+"AT","Austria","Other","Level 1",14.692,11.868,6162.686
+"AT","Austria","Total Renewable","Level 1",46781.168,47542.448,43074.354
+"AT","Austria","% Renewable","Level 1",69.05506496,66.61030535,54.53459385
+"PL","Poland","Conventional thermal","Level 1",136945,137068.099,138957.387
+"PL","Poland","Nuclear","Level 1",0,0,0
+"PL","Poland","Hydro","Level 1",2591,2999.86,2353.336
+"PL","Poland","Pumped hydro power","Level 2",474,448.193,402.36
+"PL","Poland","Wind","Level 1",12279,14574.192,12487.345
+"PL","Poland","Solar","Level 1",124,165.463,298.432
+"PL","Poland","Geothermal","Level 1",0,0,0
+"PL","Poland","Other","Level 1",64,61.73,0
+"PL","Poland","Total Renewable","Level 1",14994,17739.515,15139.113
+"PL","Poland","% Renewable","Level 1",9.83361425,11.42145011,9.798850943
+"PT","Portugal","Conventional thermal","Level 1",28702,36882.017,30887
+"PT","Portugal","Nuclear","Level 1",0,0,0
+"PT","Portugal","Hydro","Level 1",16794.113,7489.938,13489
+"PT","Portugal","Pumped hydro power","Level 2",1186,1699.948,3120
+"PT","Portugal","Wind","Level 1",12343.336,12112.464,12530
+"PT","Portugal","Solar","Level 1",870.603,991.546,974
+"PT","Portugal","Geothermal","Level 1",152,193.007,205
+"PT","Portugal","Other","Level 1",0,0,0
+"PT","Portugal","Total Renewable","Level 1",30160.052,20786.955,27198
+"PT","Portugal","% Renewable","Level 1",50.22652858,35.01319377,44.43754595
+"RO","Romania","Conventional thermal","Level 1",23304,24923.065,22611
+"RO","Romania","Nuclear","Level 1",10366,10557.906,10443
+"RO","Romania","Hydro","Level 1",18239,14687.531,17653
+"RO","Romania","Pumped hydro power","Level 2",507,357.788,0
+"RO","Romania","Wind","Level 1",6527,7331.254,6261
+"RO","Romania","Solar","Level 1",1820,1855.674,1754
+"RO","Romania","Geothermal","Level 1",0,0,0
+"RO","Romania","Other","Level 1",0,0,0
+"RO","Romania","Total Renewable","Level 1",36952,34432.365,36111
+"RO","Romania","% Renewable","Level 1",60.8133239,57.6628863,61.49484009
+"SI","Slovenia","Conventional thermal","Level 1",5121,5054.64,4703.068
+"SI","Slovenia","Nuclear","Level 1",5431,5967.827,5489.906
+"SI","Slovenia","Hydro","Level 1",4721,4085.015,4831.147
+"SI","Slovenia","Pumped hydro power","Level 2",278,271.498,187.919
+"SI","Slovenia","Wind","Level 1",6,5.716,6.02
+"SI","Slovenia","Solar","Level 1",267,283.678,254.113
+"SI","Slovenia","Geothermal","Level 1",0,0,0
+"SI","Slovenia","Other","Level 1",0,0,0
+"SI","Slovenia","Total Renewable","Level 1",10425,10342.236,10581.186
+"SI","Slovenia","% Renewable","Level 1",65.88094034,66.00707897,68.38849333
+"SK","Slovakia","Conventional thermal","Level 1",6065,6417,5426
+"SK","Slovakia","Nuclear","Level 1",13732,14016,13807
+"SK","Slovakia","Hydro","Level 1",4549,4620,3838
+"SK","Slovakia","Pumped hydro power","Level 2",247,299,293
+"SK","Slovakia","Wind","Level 1",6,6,5
+"SK","Slovakia","Solar","Level 1",533,506,586
+"SK","Slovakia","Geothermal","Level 1",0,0,0
+"SK","Slovakia","Other","Level 1",112,127,55
+"SK","Slovakia","Total Renewable","Level 1",18820,19148,18236
+"SK","Slovakia","% Renewable","Level 1",74.55236888,73.67165557,75.9516868
+"FI","Finland","Conventional thermal","Level 1",24950,23681,26425
+"FI","Finland","Nuclear","Level 1",22280,21574,21890
+"FI","Finland","Hydro","Level 1",15634,14610,13158.674
+"FI","Finland","Pumped hydro power","Level 2",0,0,0
+"FI","Finland","Wind","Level 1",3068,4795,5861
+"FI","Finland","Solar","Level 1",19,43,89
+"FI","Finland","Geothermal","Level 1",0,0,0
+"FI","Finland","Other","Level 1",249,335,0
+"FI","Finland","Total Renewable","Level 1",41001,NA,NA
+"FI","Finland","% Renewable","Level 1",61.93504532,0,0
+"SE","Sweden","Conventional thermal","Level 1",14621,15003,14869.986
+"SE","Sweden","Nuclear","Level 1",60524,63008,65801.155
+"SE","Sweden","Hydro","Level 1",61764,64676,60977.602
+"SE","Sweden","Pumped hydro power","Level 2",119,25,0
+"SE","Sweden","Wind","Level 1",15479,17609,16638.345
+"SE","Sweden","Solar","Level 1",143,230,0
+"SE","Sweden","Geothermal","Level 1",0,0,0
+"SE","Sweden","Other","Level 1",0,0,0
+"SE","Sweden","Total Renewable","Level 1",137910,145523,143417.102
+"SE","Sweden","% Renewable","Level 1",90.34392401,90.63973441,90.60568604
+"UK","United Kingdom","Conventional thermal","Level 1",203165.188,189296.528,180837.905
+"UK","United Kingdom","Nuclear","Level 1",65149.08,63886.86,59097.753
+"UK","United Kingdom","Hydro","Level 1",8286.51,8723.43,7678.659
+"UK","United Kingdom","Pumped hydro power","Level 2",2948.89,2862.01,2515.998
+"UK","United Kingdom","Wind","Level 1",37262.699,50003.654,56903.961
+"UK","United Kingdom","Solar","Level 1",10410.948,11524.87,12857.349
+"UK","United Kingdom","Geothermal","Level 1",0,0,0
+"UK","United Kingdom","Other","Level 1",0,0,0
+"UK","United Kingdom","Total Renewable","Level 1",121109.237,134138.814,136537.722
+"UK","United Kingdom","% Renewable","Level 1",37.01118822,41.10937866,42.68249349
+"NO","Norway","Conventional thermal","Level 1",3212,3233,3457.28
+"NO","Norway","Nuclear","Level 1",0,0,0
+"NO","Norway","Hydro","Level 1",143442,142276,139512.026
+"NO","Norway","Pumped hydro power","Level 2",999,1157,3490.918
+"NO","Norway","Wind","Level 1",2116,2852,3875.881
+"NO","Norway","Solar","Level 1",0,0,0
+"NO","Norway","Geothermal","Level 1",0,0,0
+"NO","Norway","Other","Level 1",297,281,0
+"NO","Norway","Total Renewable","Level 1",145558,145128,143387.907
+"NO","Norway","% Renewable","Level 1",96.99598843,96.88182164,95.37822401
+"ME","Montenegro","Conventional thermal","Level 1",1216,1265,1444
+"ME","Montenegro","Nuclear","Level 1",0,0,0
+"ME","Montenegro","Hydro","Level 1",1807,1003.8,2137
+"ME","Montenegro","Pumped hydro power","Level 2",0,0,0
+"ME","Montenegro","Wind","Level 1",0,95,162
+"ME","Montenegro","Solar","Level 1",0,0,0
+"ME","Montenegro","Geothermal","Level 1",0,0,0
+"ME","Montenegro","Other","Level 1",0,0,0
+"ME","Montenegro","Total Renewable","Level 1",1807,1098.8,2299
+"ME","Montenegro","% Renewable","Level 1",59.77505789,46.48447415,61.4213198
+"MK","North Macedonia","Conventional thermal","Level 1",3281.378,4005.609,3309.114
+"MK","North Macedonia","Nuclear","Level 1",0,0,0
+"MK","North Macedonia","Hydro","Level 1",1869.694,1087.024,1774.496
+"MK","North Macedonia","Pumped hydro power","Level 2",0,0,0
+"MK","North Macedonia","Wind","Level 1",109.482,110.48,97.338
+"MK","North Macedonia","Solar","Level 1",23.699,23.752,22.788
+"MK","North Macedonia","Geothermal","Level 1",0,0,0
+"MK","North Macedonia","Other","Level 1",0,0,0
+"MK","North Macedonia","Total Renewable","Level 1",2002.875,1221.256,1894.622
+"MK","North Macedonia","% Renewable","Level 1",37.90270829,23.36498073,36.40888008
+"AL","Albania","Conventional thermal","Level 1",0,0,0
+"AL","Albania","Nuclear","Level 1",0,0,0
+"AL","Albania","Hydro","Level 1",7136,4496.607,8596.537
+"AL","Albania","Pumped hydro power","Level 2",0,0,0
+"AL","Albania","Wind","Level 1",0,0,0
+"AL","Albania","Solar","Level 1",0,1.2,0
+"AL","Albania","Geothermal","Level 1",0,0,0
+"AL","Albania","Other","Level 1",0,0,0
+"AL","Albania","Total Renewable","Level 1",7136,4497.807,8596.537
+"AL","Albania","% Renewable","Level 1",100,100,100
+"RS","Serbia","Conventional thermal","Level 1",25161,24566.923,23625.089
+"RS","Serbia","Nuclear","Level 1",0,0,0
+"RS","Serbia","Hydro","Level 1",11429,9670.033,11453.07
+"RS","Serbia","Pumped hydro power","Level 2",728,598.732,1147.848
+"RS","Serbia","Wind","Level 1",26,48.457,150.419
+"RS","Serbia","Solar","Level 1",12,13.139,12.608
+"RS","Serbia","Geothermal","Level 1",0,0,0
+"RS","Serbia","Other","Level 1",0,0,0
+"RS","Serbia","Total Renewable","Level 1",11467,9731.629,11616.097
+"RS","Serbia","% Renewable","Level 1",30.69654139,27.88649397,31.92197133
+"TR","Turkey","Conventional thermal","Level 1",174166,199910.043,195153.546
+"TR","Turkey","Nuclear","Level 1",0,0,0
+"TR","Turkey","Hydro","Level 1",66686,57823.851,59865.351
+"TR","Turkey","Pumped hydro power","Level 2",0,0,0
+"TR","Turkey","Wind","Level 1",15381,17793.167,19825.697
+"TR","Turkey","Solar","Level 1",1013,2817.837,7459.485
+"TR","Turkey","Geothermal","Level 1",4010,5101.487,6275.373
+"TR","Turkey","Other","Level 1",681,811.134,703.126
+"TR","Turkey","Total Renewable","Level 1",87090,83536.342,93425.906
+"TR","Turkey","% Renewable","Level 1",33.24845287,29.38755755,32.29572505
+"BA","Bosnia & Herzegovina","Conventional thermal","Level 1",10971,11250,4003.505
+"BA","Bosnia & Herzegovina","Nuclear","Level 1",0,0,0
+"BA","Bosnia & Herzegovina","Hydro","Level 1",5614,3968,3476.554
+"BA","Bosnia & Herzegovina","Pumped hydro power","Level 2",0,197,0
+"BA","Bosnia & Herzegovina","Wind","Level 1",0,0,22.368
+"BA","Bosnia & Herzegovina","Solar","Level 1",24,21,0
+"BA","Bosnia & Herzegovina","Geothermal","Level 1",0,0,0
+"BA","Bosnia & Herzegovina","Other","Level 1",0,0,0
+"BA","Bosnia & Herzegovina","Total Renewable","Level 1",5638,3989,3498.922
+"BA","Bosnia & Herzegovina","% Renewable","Level 1",33.94545126,25.8421871,46.63720153
+"UA","Ukraine","Conventional thermal","Level 1",65415,54041.9,60830.7
+"UA","Ukraine","Nuclear","Level 1",75931,80295.3,84397.9
+"UA","Ukraine","Hydro","Level 1",9025,8812,11920.2
+"UA","Ukraine","Pumped hydro power","Level 2",1633,1559,0
+"UA","Ukraine","Wind","Level 1",949,974,1185.9
+"UA","Ukraine","Solar","Level 1",490,737.6,737.8
+"UA","Ukraine","Geothermal","Level 1",0,0,0
+"UA","Ukraine","Other","Level 1",79,45,0
+"UA","Ukraine","Total Renewable","Level 1",86395,90818.9,98241.8
+"UA","Ukraine","% Renewable","Level 1",56.2753221,62.0073219,61.75913499
+"GE","Georgia","Conventional thermal","Level 1",2135,2131.3,2114.901
+"GE","Georgia","Nuclear","Level 1",0,0,0
+"GE","Georgia","Hydro","Level 1",9221,9096.8,9949.387
+"GE","Georgia","Pumped hydro power","Level 2",0,0,0
+"GE","Georgia","Wind","Level 1",9,87.7,84.226
+"GE","Georgia","Solar","Level 1",0,0,0
+"GE","Georgia","Geothermal","Level 1",0,0,0
+"GE","Georgia","Other","Level 1",0,0,0
+"GE","Georgia","Total Renewable","Level 1",9230,9184.5,10033.613
+"GE","Georgia","% Renewable","Level 1",81.21425429,81.16527333,82.59127824

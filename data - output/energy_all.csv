@@ -1,0 +1,981 @@
+"country_name","year","country","type","GWh","Country Code","Indicator Name","Indicator Code","total population","per_capita_kwh"
+"Albania","2016","AL","Conventional thermal",0,"ALB","Population, total","SP.POP.TOTL",2876101,0
+"Albania","2016","AL","Other",0,"ALB","Population, total","SP.POP.TOTL",2876101,0
+"Albania","2016","AL","Geothermal",0,"ALB","Population, total","SP.POP.TOTL",2876101,0
+"Albania","2016","AL","Nuclear",0,"ALB","Population, total","SP.POP.TOTL",2876101,0
+"Albania","2016","AL","Total Renewable",7136,"ALB","Population, total","SP.POP.TOTL",2876101,2481.13678900706
+"Albania","2016","AL","Wind",0,"ALB","Population, total","SP.POP.TOTL",2876101,0
+"Albania","2016","AL","Hydro",7136,"ALB","Population, total","SP.POP.TOTL",2876101,2481.13678900706
+"Albania","2016","AL","% Renewable",100,"ALB","Population, total","SP.POP.TOTL",2876101,34.7692935679241
+"Albania","2016","AL","Solar",0,"ALB","Population, total","SP.POP.TOTL",2876101,0
+"Albania","2017","AL","Conventional thermal",0,"ALB","Population, total","SP.POP.TOTL",2873457,0
+"Albania","2017","AL","Wind",0,"ALB","Population, total","SP.POP.TOTL",2873457,0
+"Albania","2017","AL","Hydro",4496.607,"ALB","Population, total","SP.POP.TOTL",2873457,1564.87708011639
+"Albania","2017","AL","Nuclear",0,"ALB","Population, total","SP.POP.TOTL",2873457,0
+"Albania","2017","AL","Solar",1.2,"ALB","Population, total","SP.POP.TOTL",2873457,0.417615436737004
+"Albania","2017","AL","Total Renewable",4497.807,"ALB","Population, total","SP.POP.TOTL",2873457,1565.29469555313
+"Albania","2017","AL","Other",0,"ALB","Population, total","SP.POP.TOTL",2873457,0
+"Albania","2017","AL","Geothermal",0,"ALB","Population, total","SP.POP.TOTL",2873457,0
+"Albania","2017","AL","% Renewable",100,"ALB","Population, total","SP.POP.TOTL",2873457,34.8012863947503
+"Albania","2018","AL","Solar",0,"ALB","Population, total","SP.POP.TOTL",2866376,0
+"Albania","2018","AL","Conventional thermal",0,"ALB","Population, total","SP.POP.TOTL",2866376,0
+"Albania","2018","AL","Other",0,"ALB","Population, total","SP.POP.TOTL",2866376,0
+"Albania","2018","AL","Geothermal",0,"ALB","Population, total","SP.POP.TOTL",2866376,0
+"Albania","2018","AL","Nuclear",0,"ALB","Population, total","SP.POP.TOTL",2866376,0
+"Albania","2018","AL","Total Renewable",8596.537,"ALB","Population, total","SP.POP.TOTL",2866376,2999.09607113652
+"Albania","2018","AL","Wind",0,"ALB","Population, total","SP.POP.TOTL",2866376,0
+"Albania","2018","AL","Hydro",8596.537,"ALB","Population, total","SP.POP.TOTL",2866376,2999.09607113652
+"Albania","2018","AL","% Renewable",100,"ALB","Population, total","SP.POP.TOTL",2866376,34.8872583359615
+"Austria","2016","AT","Conventional thermal",18065.01,"AUT","Population, total","SP.POP.TOTL",8736668,2067.72307245737
+"Austria","2016","AT","Hydro",40772.188,"AUT","Population, total","SP.POP.TOTL",8736668,4666.78921529352
+"Austria","2016","AT","Nuclear",0,"AUT","Population, total","SP.POP.TOTL",8736668,0
+"Austria","2016","AT","Geothermal",0.02,"AUT","Population, total","SP.POP.TOTL",8736668,0.00228920224506643
+"Austria","2016","AT","Wind",4968.262,"AUT","Population, total","SP.POP.TOTL",8736668,568.667826223911
+"Austria","2016","AT","Total Renewable",46781.168,"AUT","Population, total","SP.POP.TOTL",8736668,5354.57774062148
+"Austria","2016","AT","Other",14.692,"AUT","Population, total","SP.POP.TOTL",8736668,1.6816479692258
+"Austria","2016","AT","Solar",1040.698,"AUT","Population, total","SP.POP.TOTL",8736668,119.118409901807
+"Austria","2016","AT","% Renewable",69.05506496,"AUT","Population, total","SP.POP.TOTL",8736668,7.90405048698199
+"Austria","2017","AT","Conventional thermal",20135.846,"AUT","Population, total","SP.POP.TOTL",8797566,2288.79737872953
+"Austria","2017","AT","Total Renewable",47542.448,"AUT","Population, total","SP.POP.TOTL",8797566,5404.04561898143
+"Austria","2017","AT","Other",11.868,"AUT","Population, total","SP.POP.TOTL",8797566,1.34900948739686
+"Austria","2017","AT","Geothermal",0.086,"AUT","Population, total","SP.POP.TOTL",8797566,0.00977543106809315
+"Austria","2017","AT","% Renewable",66.61030535,"AUT","Population, total","SP.POP.TOTL",8797566,7.57144707411118
+"Austria","2017","AT","Wind",6239.497,"AUT","Population, total","SP.POP.TOTL",8797566,709.229916547372
+"Austria","2017","AT","Hydro",40098.554,"AUT","Population, total","SP.POP.TOTL",8797566,4557.91454136292
+"Austria","2017","AT","Nuclear",0,"AUT","Population, total","SP.POP.TOTL",8797566,0
+"Austria","2017","AT","Solar",1204.311,"AUT","Population, total","SP.POP.TOTL",8797566,136.891385640074
+"Austria","2018","AT","Conventional thermal",16350.754,"AUT","Population, total","SP.POP.TOTL",8840521,1849.52380069003
+"Austria","2018","AT","Solar",0,"AUT","Population, total","SP.POP.TOTL",8840521,0
+"Austria","2018","AT","Hydro",37217.295,"AUT","Population, total","SP.POP.TOTL",8840521,4209.85312969677
+"Austria","2018","AT","Nuclear",0,"AUT","Population, total","SP.POP.TOTL",8840521,0
+"Austria","2018","AT","Geothermal",0,"AUT","Population, total","SP.POP.TOTL",8840521,0
+"Austria","2018","AT","Wind",5857.059,"AUT","Population, total","SP.POP.TOTL",8840521,662.524188336864
+"Austria","2018","AT","Total Renewable",43074.354,"AUT","Population, total","SP.POP.TOTL",8840521,4872.37731803363
+"Austria","2018","AT","Other",6162.686,"AUT","Population, total","SP.POP.TOTL",8840521,697.095340874141
+"Austria","2018","AT","% Renewable",54.53459385,"AUT","Population, total","SP.POP.TOTL",8840521,6.16870813948635
+"Belgium","2016","BE","Conventional thermal",30728,"BEL","Population, total","SP.POP.TOTL",11331422,2711.75144655278
+"Belgium","2016","BE","Total Renewable",51316,"BEL","Population, total","SP.POP.TOTL",11331422,4528.64609578568
+"Belgium","2016","BE","Nuclear",41430,"BEL","Population, total","SP.POP.TOTL",11331422,3656.20484348743
+"Belgium","2016","BE","Solar",3070,"BEL","Population, total","SP.POP.TOTL",11331422,270.928044158977
+"Belgium","2016","BE","Wind",5340,"BEL","Population, total","SP.POP.TOTL",11331422,471.255946517569
+"Belgium","2016","BE","Hydro",1476,"BEL","Population, total","SP.POP.TOTL",11331422,130.25726162171
+"Belgium","2016","BE","% Renewable",61.36075571,"BEL","Population, total","SP.POP.TOTL",11331422,5.41509756763096
+"Belgium","2016","BE","Geothermal",0,"BEL","Population, total","SP.POP.TOTL",11331422,0
+"Belgium","2016","BE","Other",476,"BEL","Population, total","SP.POP.TOTL",11331422,42.007084371229
+"Belgium","2017","BE","Solar",3264.3,"BEL","Population, total","SP.POP.TOTL",11375158,286.967442562117
+"Belgium","2017","BE","Hydro",1360.9,"BEL","Population, total","SP.POP.TOTL",11375158,119.637898656001
+"Belgium","2017","BE","Conventional thermal",31316,"BEL","Population, total","SP.POP.TOTL",11375158,2753.01670535038
+"Belgium","2017","BE","% Renewable",60.85264815,"BEL","Population, total","SP.POP.TOTL",11375158,5.34960904718862
+"Belgium","2017","BE","Wind",6387.9,"BEL","Population, total","SP.POP.TOTL",11375158,561.56582616259
+"Belgium","2017","BE","Other",490.9,"BEL","Population, total","SP.POP.TOTL",11375158,43.1554445221772
+"Belgium","2017","BE","Nuclear",40128.5,"BEL","Population, total","SP.POP.TOTL",11375158,3527.73121920592
+"Belgium","2017","BE","Geothermal",0,"BEL","Population, total","SP.POP.TOTL",11375158,0
+"Belgium","2017","BE","Total Renewable",51141.6,"BEL","Population, total","SP.POP.TOTL",11375158,4495.90238658663
+"Belgium","2018","BE","Total Renewable",38901.201,"BEL","Population, total","SP.POP.TOTL",11427054,3404.30709437446
+"Belgium","2018","BE","Other",218.509,"BEL","Population, total","SP.POP.TOTL",11427054,19.1220764336985
+"Belgium","2018","BE","Conventional thermal",30092.635,"BEL","Population, total","SP.POP.TOTL",11427054,2633.45521951677
+"Belgium","2018","BE","Solar",3488.979,"BEL","Population, total","SP.POP.TOTL",11427054,305.326202186495
+"Belgium","2018","BE","Nuclear",26995.628,"BEL","Population, total","SP.POP.TOTL",11427054,2362.4311217922
+"Belgium","2018","BE","Wind",7177.346,"BEL","Population, total","SP.POP.TOTL",11427054,628.101171132997
+"Belgium","2018","BE","Geothermal",0,"BEL","Population, total","SP.POP.TOTL",11427054,0
+"Belgium","2018","BE","% Renewable",55.41834107,"BEL","Population, total","SP.POP.TOTL",11427054,4.84974876901781
+"Belgium","2018","BE","Hydro",1239.248,"BEL","Population, total","SP.POP.TOTL",11427054,108.448599262767
+"Bulgaria","2016","BG","Geothermal",0,"BGR","Population, total","SP.POP.TOTL",7127822,0
+"Bulgaria","2016","BG","Wind",1425,"BGR","Population, total","SP.POP.TOTL",7127822,199.920817326808
+"Bulgaria","2016","BG","Nuclear",14932,"BGR","Population, total","SP.POP.TOTL",7127822,2094.88957496413
+"Bulgaria","2016","BG","Conventional thermal",18909,"BGR","Population, total","SP.POP.TOTL",7127822,2652.84402444393
+"Bulgaria","2016","BG","% Renewable",53.2456979,"BGR","Population, total","SP.POP.TOTL",7127822,7.47012171459949
+"Bulgaria","2016","BG","Hydro",4535,"BGR","Population, total","SP.POP.TOTL",7127822,636.239232685665
+"Bulgaria","2016","BG","Other",34,"BGR","Population, total","SP.POP.TOTL",7127822,4.77004055376243
+"Bulgaria","2016","BG","Solar",1386,"BGR","Population, total","SP.POP.TOTL",7127822,194.449300221021
+"Bulgaria","2016","BG","Total Renewable",22278,"BGR","Population, total","SP.POP.TOTL",7127822,3125.49892519763
+"Bulgaria","2017","BG","Conventional thermal",20234.209,"BGR","Population, total","SP.POP.TOTL",7075947,2859.57611044854
+"Bulgaria","2017","BG","Hydro",3458.015,"BGR","Population, total","SP.POP.TOTL",7075947,488.699957758304
+"Bulgaria","2017","BG","Other",33.882,"BGR","Population, total","SP.POP.TOTL",7075947,4.78833433885245
+"Bulgaria","2017","BG","Nuclear",14718.368,"BGR","Population, total","SP.POP.TOTL",7075947,2080.05628080595
+"Bulgaria","2017","BG","Wind",1504.063,"BGR","Population, total","SP.POP.TOTL",7075947,212.559958405567
+"Bulgaria","2017","BG","Total Renewable",21083.212,"BGR","Population, total","SP.POP.TOTL",7075947,2979.56047437891
+"Bulgaria","2017","BG","Solar",1402.766,"BGR","Population, total","SP.POP.TOTL",7075947,198.244277409087
+"Bulgaria","2017","BG","% Renewable",50.25194604,"BGR","Population, total","SP.POP.TOTL",7075947,7.10179796993957
+"Bulgaria","2017","BG","Geothermal",0,"BGR","Population, total","SP.POP.TOTL",7075947,0
+"Bulgaria","2018","BG","Hydro",4690,"BGR","Population, total","SP.POP.TOTL",7025037,667.612142113985
+"Bulgaria","2018","BG","Wind",1326,"BGR","Population, total","SP.POP.TOTL",7025037,188.753454252269
+"Bulgaria","2018","BG","Total Renewable",22349,"BGR","Population, total","SP.POP.TOTL",7025037,3181.33555737856
+"Bulgaria","2018","BG","Solar",1043,"BGR","Population, total","SP.POP.TOTL",7025037,148.468968917886
+"Bulgaria","2018","BG","Conventional thermal",19334,"BGR","Population, total","SP.POP.TOTL",7025037,2752.15632316243
+"Bulgaria","2018","BG","Other",22,"BGR","Population, total","SP.POP.TOTL",7025037,3.13165610373298
+"Bulgaria","2018","BG","Nuclear",15290,"BGR","Population, total","SP.POP.TOTL",7025037,2176.50099209442
+"Bulgaria","2018","BG","% Renewable",52.3493863,"BGR","Population, total","SP.POP.TOTL",7025037,7.45183068786684
+"Bulgaria","2018","BG","Geothermal",0,"BGR","Population, total","SP.POP.TOTL",7025037,0
+"Croatia","2016","HR","Conventional thermal",4241,"HRV","Population, total","SP.POP.TOTL",4174349,1015.96680105089
+"Croatia","2016","HR","Wind",1010,"HRV","Population, total","SP.POP.TOTL",4174349,241.953895086396
+"Croatia","2016","HR","Nuclear",0,"HRV","Population, total","SP.POP.TOTL",4174349,0
+"Croatia","2016","HR","Geothermal",0,"HRV","Population, total","SP.POP.TOTL",4174349,0
+"Croatia","2016","HR","% Renewable",64.40067259,"HRV","Population, total","SP.POP.TOTL",4174349,15.4277164151823
+"Croatia","2016","HR","Hydro",6967,"HRV","Population, total","SP.POP.TOTL",4174349,1669.0027594722
+"Croatia","2016","HR","Other",0,"HRV","Population, total","SP.POP.TOTL",4174349,0
+"Croatia","2016","HR","Solar",66,"HRV","Population, total","SP.POP.TOTL",4174349,15.8108485898041
+"Croatia","2016","HR","Total Renewable",8043,"HRV","Population, total","SP.POP.TOTL",4174349,1926.7675031484
+"Croatia","2017","HR","Conventional thermal",4808,"HRV","Population, total","SP.POP.TOTL",4124531,1165.70829507646
+"Croatia","2017","HR","Total Renewable",6714.9,"HRV","Population, total","SP.POP.TOTL",4124531,1628.03964862914
+"Croatia","2017","HR","Other",0,"HRV","Population, total","SP.POP.TOTL",4124531,0
+"Croatia","2017","HR","Geothermal",0,"HRV","Population, total","SP.POP.TOTL",4124531,0
+"Croatia","2017","HR","% Renewable",57.27872936,"HRV","Population, total","SP.POP.TOTL",4124531,13.8873315196322
+"Croatia","2017","HR","Wind",1198.4,"HRV","Population, total","SP.POP.TOTL",4124531,290.554247258658
+"Croatia","2017","HR","Hydro",5437.8,"HRV","Population, total","SP.POP.TOTL",4124531,1318.40444404467
+"Croatia","2017","HR","Nuclear",0,"HRV","Population, total","SP.POP.TOTL",4124531,0
+"Croatia","2017","HR","Solar",78.7,"HRV","Population, total","SP.POP.TOTL",4124531,19.0809573258147
+"Croatia","2018","HR","% Renewable",65.75533824,"HRV","Population, total","SP.POP.TOTL",4087843,16.0855830911314
+"Croatia","2018","HR","Conventional thermal",4155.654,"HRV","Population, total","SP.POP.TOTL",4087843,1016.58845508499
+"Croatia","2018","HR","Hydro",7681.337,"HRV","Population, total","SP.POP.TOTL",4087843,1879.06849651515
+"Croatia","2018","HR","Nuclear",0,"HRV","Population, total","SP.POP.TOTL",4087843,0
+"Croatia","2018","HR","Geothermal",0,"HRV","Population, total","SP.POP.TOTL",4087843,0
+"Croatia","2018","HR","Wind",1350.356,"HRV","Population, total","SP.POP.TOTL",4087843,330.334604337789
+"Croatia","2018","HR","Total Renewable",9100.886,"HRV","Population, total","SP.POP.TOTL",4087843,2226.32963154407
+"Croatia","2018","HR","Other",0,"HRV","Population, total","SP.POP.TOTL",4087843,0
+"Croatia","2018","HR","Solar",69.193,"HRV","Population, total","SP.POP.TOTL",4087843,16.9265306911249
+"Cyprus","2016","CY","Conventional thermal",4295,"CYP","Population, total","SP.POP.TOTL",1170187,3670.35354178435
+"Cyprus","2016","CY","Solar",145.937,"CYP","Population, total","SP.POP.TOTL",1170187,124.712545943512
+"Cyprus","2016","CY","Geothermal",0,"CYP","Population, total","SP.POP.TOTL",1170187,0
+"Cyprus","2016","CY","Total Renewable",372.638,"CYP","Population, total","SP.POP.TOTL",1170187,318.443120629438
+"Cyprus","2016","CY","Other",0,"CYP","Population, total","SP.POP.TOTL",1170187,0
+"Cyprus","2016","CY","Nuclear",0,"CYP","Population, total","SP.POP.TOTL",1170187,0
+"Cyprus","2016","CY","% Renewable",7.983438304,"CYP","Population, total","SP.POP.TOTL",1170187,6.82236113031507
+"Cyprus","2016","CY","Wind",226.701,"CYP","Population, total","SP.POP.TOTL",1170187,193.730574685926
+"Cyprus","2016","CY","Hydro",0,"CYP","Population, total","SP.POP.TOTL",1170187,0
+"Cyprus","2017","CY","Other",0,"CYP","Population, total","SP.POP.TOTL",1179680,0
+"Cyprus","2017","CY","Nuclear",0,"CYP","Population, total","SP.POP.TOTL",1179680,0
+"Cyprus","2017","CY","% Renewable",8.02508434,"CYP","Population, total","SP.POP.TOTL",1179680,6.80276374949139
+"Cyprus","2017","CY","Total Renewable",383.461,"CYP","Population, total","SP.POP.TOTL",1179680,325.055099688051
+"Cyprus","2017","CY","Solar",172.013,"CYP","Population, total","SP.POP.TOTL",1179680,145.813271395633
+"Cyprus","2017","CY","Geothermal",0,"CYP","Population, total","SP.POP.TOTL",1179680,0
+"Cyprus","2017","CY","Wind",211.448,"CYP","Population, total","SP.POP.TOTL",1179680,179.241828292418
+"Cyprus","2017","CY","Hydro",0,"CYP","Population, total","SP.POP.TOTL",1179680,0
+"Cyprus","2017","CY","Conventional thermal",4394.819,"CYP","Population, total","SP.POP.TOTL",1179680,3725.43316831683
+"Cyprus","2018","CY","Other",0,"CYP","Population, total","SP.POP.TOTL",1189265,0
+"Cyprus","2018","CY","Solar",190.329,"CYP","Population, total","SP.POP.TOTL",1189265,160.039183865665
+"Cyprus","2018","CY","Geothermal",0,"CYP","Population, total","SP.POP.TOTL",1189265,0
+"Cyprus","2018","CY","Total Renewable",410.942,"CYP","Population, total","SP.POP.TOTL",1189265,345.542835280614
+"Cyprus","2018","CY","Hydro",0,"CYP","Population, total","SP.POP.TOTL",1189265,0
+"Cyprus","2018","CY","Nuclear",0,"CYP","Population, total","SP.POP.TOTL",1189265,0
+"Cyprus","2018","CY","% Renewable",8.57722207,"CYP","Population, total","SP.POP.TOTL",1189265,7.21220423538908
+"Cyprus","2018","CY","Wind",220.613,"CYP","Population, total","SP.POP.TOTL",1189265,185.50365141495
+"Cyprus","2018","CY","Conventional thermal",4380.143,"CYP","Population, total","SP.POP.TOTL",1189265,3683.06727264319
+"Denmark","2016","DK","Geothermal",0,"DNK","Population, total","SP.POP.TOTL",5728010,0
+"Denmark","2016","DK","Conventional thermal",15533.149,"DNK","Population, total","SP.POP.TOTL",5728010,2711.78803807954
+"Denmark","2016","DK","Solar",743.78,"DNK","Population, total","SP.POP.TOTL",5728010,129.849633642399
+"Denmark","2016","DK","% Renewable",46.58097075,"DNK","Population, total","SP.POP.TOTL",5728010,8.13213851756544
+"Denmark","2016","DK","Other",0,"DNK","Population, total","SP.POP.TOTL",5728010,0
+"Denmark","2016","DK","Nuclear",0,"DNK","Population, total","SP.POP.TOTL",5728010,0
+"Denmark","2016","DK","Total Renewable",13544.783,"DNK","Population, total","SP.POP.TOTL",5728010,2364.65770834897
+"Denmark","2016","DK","Hydro",19.272,"DNK","Population, total","SP.POP.TOTL",5728010,3.36451926585324
+"Denmark","2016","DK","Wind",12781.731,"DNK","Population, total","SP.POP.TOTL",5728010,2231.44355544072
+"Denmark","2017","DK","Geothermal",0,"DNK","Population, total","SP.POP.TOTL",5764980,0
+"Denmark","2017","DK","Conventional thermal",14104.326,"DNK","Population, total","SP.POP.TOTL",5764980,2446.55245985242
+"Denmark","2017","DK","Solar",751.485,"DNK","Population, total","SP.POP.TOTL",5764980,130.353444417847
+"Denmark","2017","DK","Total Renewable",15549.356,"DNK","Population, total","SP.POP.TOTL",5764980,2697.20901026543
+"Denmark","2017","DK","Other",0,"DNK","Population, total","SP.POP.TOTL",5764980,0
+"Denmark","2017","DK","Nuclear",0,"DNK","Population, total","SP.POP.TOTL",5764980,0
+"Denmark","2017","DK","% Renewable",52.43651025,"DNK","Population, total","SP.POP.TOTL",5764980,9.09569681941655
+"Denmark","2017","DK","Wind",14780,"DNK","Population, total","SP.POP.TOTL",5764980,2563.75564182356
+"Denmark","2017","DK","Hydro",17.871,"DNK","Population, total","SP.POP.TOTL",5764980,3.0999240240209
+"Denmark","2018","DK","Other",0.044,"DNK","Population, total","SP.POP.TOTL",5793636,0.00759453994003075
+"Denmark","2018","DK","Solar",952.973,"DNK","Population, total","SP.POP.TOTL",5793636,164.486170687976
+"Denmark","2018","DK","% Renewable",51.3724119,"DNK","Population, total","SP.POP.TOTL",5793636,8.86704168159684
+"Denmark","2018","DK","Total Renewable",14866.708,"DNK","Population, total","SP.POP.TOTL",5793636,2566.04108369942
+"Denmark","2018","DK","Hydro",14.929,"DNK","Population, total","SP.POP.TOTL",5793636,2.57679288101634
+"Denmark","2018","DK","Nuclear",0,"DNK","Population, total","SP.POP.TOTL",5793636,0
+"Denmark","2018","DK","Geothermal",0,"DNK","Population, total","SP.POP.TOTL",5793636,0
+"Denmark","2018","DK","Wind",13898.806,"DNK","Population, total","SP.POP.TOTL",5793636,2398.97812013043
+"Denmark","2018","DK","Conventional thermal",14072.337,"DNK","Population, total","SP.POP.TOTL",5793636,2428.93012263801
+"Estonia","2016","EE","Geothermal",0,"EST","Population, total","SP.POP.TOTL",1315790,0
+"Estonia","2016","EE","Conventional thermal",9795,"EST","Population, total","SP.POP.TOTL",1315790,7444.19702232119
+"Estonia","2016","EE","Hydro",35,"EST","Population, total","SP.POP.TOTL",1315790,26.5999893600043
+"Estonia","2016","EE","Total Renewable",629,"EST","Population, total","SP.POP.TOTL",1315790,478.039808784076
+"Estonia","2016","EE","Other",0,"EST","Population, total","SP.POP.TOTL",1315790,0
+"Estonia","2016","EE","% Renewable",6.034151957,"EST","Population, total","SP.POP.TOTL",1315790,4.58595365293854
+"Estonia","2016","EE","Solar",0,"EST","Population, total","SP.POP.TOTL",1315790,0
+"Estonia","2016","EE","Wind",594,"EST","Population, total","SP.POP.TOTL",1315790,451.439819424072
+"Estonia","2016","EE","Nuclear",0,"EST","Population, total","SP.POP.TOTL",1315790,0
+"Estonia","2017","EE","Conventional thermal",10485,"EST","Population, total","SP.POP.TOTL",1317384,7958.95501994863
+"Estonia","2017","EE","Wind",723,"EST","Population, total","SP.POP.TOTL",1317384,548.814924122352
+"Estonia","2017","EE","Hydro",26,"EST","Population, total","SP.POP.TOTL",1317384,19.7360830251468
+"Estonia","2017","EE","Solar",0,"EST","Population, total","SP.POP.TOTL",1317384,0
+"Estonia","2017","EE","Total Renewable",749,"EST","Population, total","SP.POP.TOTL",1317384,568.551007147498
+"Estonia","2017","EE","Other",0,"EST","Population, total","SP.POP.TOTL",1317384,0
+"Estonia","2017","EE","Nuclear",0,"EST","Population, total","SP.POP.TOTL",1317384,0
+"Estonia","2017","EE","Geothermal",0,"EST","Population, total","SP.POP.TOTL",1317384,0
+"Estonia","2017","EE","% Renewable",6.667260103,"EST","Population, total","SP.POP.TOTL",1317384,5.06098457473296
+"Estonia","2018","EE","Solar",0,"EST","Population, total","SP.POP.TOTL",1321977,0
+"Estonia","2018","EE","Conventional thermal",10170.043,"EST","Population, total","SP.POP.TOTL",1321977,7693.05593062512
+"Estonia","2018","EE","Other",0,"EST","Population, total","SP.POP.TOTL",1321977,0
+"Estonia","2018","EE","Nuclear",0,"EST","Population, total","SP.POP.TOTL",1321977,0
+"Estonia","2018","EE","Total Renewable",664.1,"EST","Population, total","SP.POP.TOTL",1321977,502.353671811234
+"Estonia","2018","EE","Wind",645.9,"EST","Population, total","SP.POP.TOTL",1321977,488.586412622912
+"Estonia","2018","EE","Hydro",18.2,"EST","Population, total","SP.POP.TOTL",1321977,13.7672591883217
+"Estonia","2018","EE","% Renewable",6.129695722,"EST","Population, total","SP.POP.TOTL",1321977,4.63676427199565
+"Estonia","2018","EE","Geothermal",0,"EST","Population, total","SP.POP.TOTL",1321977,0
+"Finland","2016","FI","Geothermal",0,"FIN","Population, total","SP.POP.TOTL",5495303,0
+"Finland","2016","FI","Conventional thermal",24950,"FIN","Population, total","SP.POP.TOTL",5495303,4540.2410021795
+"Finland","2016","FI","Other",249,"FIN","Population, total","SP.POP.TOTL",5495303,45.3114232281641
+"Finland","2016","FI","Hydro",15634,"FIN","Population, total","SP.POP.TOTL",5495303,2844.97506324947
+"Finland","2016","FI","Nuclear",22280,"FIN","Population, total","SP.POP.TOTL",5495303,4054.37152419075
+"Finland","2016","FI","Total Renewable",41001,"FIN","Population, total","SP.POP.TOTL",5495303,7461.0990513171
+"Finland","2016","FI","Wind",3068,"FIN","Population, total","SP.POP.TOTL",5495303,558.294965718906
+"Finland","2016","FI","% Renewable",61.93504532,"FIN","Population, total","SP.POP.TOTL",5495303,11.2705423740966
+"Finland","2016","FI","Solar",19,"FIN","Population, total","SP.POP.TOTL",5495303,3.45749815797236
+"Finland","2017","FI","Hydro",14610,"FIN","Population, total","SP.POP.TOTL",5508214,2652.40239395201
+"Finland","2017","FI","Conventional thermal",23681,"FIN","Population, total","SP.POP.TOTL",5508214,4299.21568043653
+"Finland","2017","FI","Wind",4795,"FIN","Population, total","SP.POP.TOTL",5508214,870.518102600952
+"Finland","2017","FI","Other",335,"FIN","Population, total","SP.POP.TOTL",5508214,60.818261599858
+"Finland","2017","FI","Nuclear",21574,"FIN","Population, total","SP.POP.TOTL",5508214,3916.69604703085
+"Finland","2017","FI","Solar",43,"FIN","Population, total","SP.POP.TOTL",5508214,7.80652313072804
+"Finland","2017","FI","% Renewable",0,"FIN","Population, total","SP.POP.TOTL",5508214,0
+"Finland","2017","FI","Geothermal",0,"FIN","Population, total","SP.POP.TOTL",5508214,0
+"Finland","2018","FI","Wind",5861,"FIN","Population, total","SP.POP.TOTL",5515525,1062.63682967623
+"Finland","2018","FI","Geothermal",0,"FIN","Population, total","SP.POP.TOTL",5515525,0
+"Finland","2018","FI","Solar",89,"FIN","Population, total","SP.POP.TOTL",5515525,16.1362698927119
+"Finland","2018","FI","% Renewable",0,"FIN","Population, total","SP.POP.TOTL",5515525,0
+"Finland","2018","FI","Other",0,"FIN","Population, total","SP.POP.TOTL",5515525,0
+"Finland","2018","FI","Hydro",13158.674,"FIN","Population, total","SP.POP.TOTL",5515525,2385.75185499114
+"Finland","2018","FI","Nuclear",21890,"FIN","Population, total","SP.POP.TOTL",5515525,3968.79716799398
+"Finland","2018","FI","Conventional thermal",26425,"FIN","Population, total","SP.POP.TOTL",5515525,4791.02170690913
+"France","2016","FR","Conventional thermal",60607.854,"FRA","Population, total","SP.POP.TOTL",66724104,908.335224703804
+"France","2016","FR","Other",559.515,"FRA","Population, total","SP.POP.TOTL",66724104,8.38550038828547
+"France","2016","FR","Geothermal",87.933,"FRA","Population, total","SP.POP.TOTL",66724104,1.31785958489604
+"France","2016","FR","Nuclear",384008.125,"FRA","Population, total","SP.POP.TOTL",66724104,5755.16345637253
+"France","2016","FR","Solar",8657.27,"FRA","Population, total","SP.POP.TOTL",66724104,129.747264946413
+"France","2016","FR","Wind",21472.916,"FRA","Population, total","SP.POP.TOTL",66724104,321.816475797112
+"France","2016","FR","Hydro",64879.956,"FRA","Population, total","SP.POP.TOTL",66724104,972.36159214667
+"France","2016","FR","Total Renewable",479106.2,"FRA","Population, total","SP.POP.TOTL",66724104,7180.40664884762
+"France","2016","FR","% Renewable",87.89962909,"FRA","Population, total","SP.POP.TOTL",66724104,1.31735945214041
+"France","2017","FR","Conventional thermal",68922.949,"FRA","Population, total","SP.POP.TOTL",66864379,1030.78724473011
+"France","2017","FR","Other",673.71,"FRA","Population, total","SP.POP.TOTL",66864379,10.0757684446602
+"France","2017","FR","% Renewable",86.2388955,"FRA","Population, total","SP.POP.TOTL",66864379,1.28975841531408
+"France","2017","FR","Total Renewable",467930.348,"FRA","Population, total","SP.POP.TOTL",66864379,6998.20076097618
+"France","2017","FR","Solar",9572.843,"FRA","Population, total","SP.POP.TOTL",66864379,143.168053650809
+"France","2017","FR","Geothermal",119.937,"FRA","Population, total","SP.POP.TOTL",66864379,1.79373534599043
+"France","2017","FR","Hydro",54432.864,"FRA","Population, total","SP.POP.TOTL",66864379,814.078659131793
+"France","2017","FR","Nuclear",379093.955,"FRA","Population, total","SP.POP.TOTL",66864379,5669.59509187994
+"France","2017","FR","Wind",24710.749,"FRA","Population, total","SP.POP.TOTL",66864379,369.565220967655
+"France","2018","FR","Solar",9651.478,"FRA","Population, total","SP.POP.TOTL",66965912,144.125237927022
+"France","2018","FR","Nuclear",393153.254,"FRA","Population, total","SP.POP.TOTL",66965912,5870.94601205461
+"France","2018","FR","Geothermal",84.084,"FRA","Population, total","SP.POP.TOTL",66965912,1.25562390608523
+"France","2018","FR","Hydro",68706.552,"FRA","Population, total","SP.POP.TOTL",66965912,1025.9929260726
+"France","2018","FR","Total Renewable",497729.388,"FRA","Population, total","SP.POP.TOTL",66965912,7432.5783541931
+"France","2018","FR","Other",0,"FRA","Population, total","SP.POP.TOTL",66965912,0
+"France","2018","FR","Wind",26134.02,"FRA","Population, total","SP.POP.TOTL",66965912,390.258554232786
+"France","2018","FR","% Renewable",88.7585423,"FRA","Population, total","SP.POP.TOTL",66965912,1.32542870916176
+"France","2018","FR","Conventional thermal",53956.44,"FRA","Population, total","SP.POP.TOTL",66965912,805.729936150201
+"Georgia","2016","GE","Conventional thermal",2135,"GEO","Population, total","SP.POP.TOTL",3727505,572.769184749584
+"Georgia","2016","GE","Other",0,"GEO","Population, total","SP.POP.TOTL",3727505,0
+"Georgia","2016","GE","Geothermal",0,"GEO","Population, total","SP.POP.TOTL",3727505,0
+"Georgia","2016","GE","Nuclear",0,"GEO","Population, total","SP.POP.TOTL",3727505,0
+"Georgia","2016","GE","Total Renewable",9230,"GEO","Population, total","SP.POP.TOTL",3727505,2476.18715467853
+"Georgia","2016","GE","Wind",9,"GEO","Population, total","SP.POP.TOTL",3727505,2.41448368278513
+"Georgia","2016","GE","Hydro",9221,"GEO","Population, total","SP.POP.TOTL",3727505,2473.77267099575
+"Georgia","2016","GE","% Renewable",81.21425429,"GEO","Population, total","SP.POP.TOTL",3727505,21.7878324214186
+"Georgia","2016","GE","Solar",0,"GEO","Population, total","SP.POP.TOTL",3727505,0
+"Georgia","2017","GE","Conventional thermal",2131.3,"GEO","Population, total","SP.POP.TOTL",3728004,571.700030364774
+"Georgia","2017","GE","Wind",87.7,"GEO","Population, total","SP.POP.TOTL",3728004,23.5246528705441
+"Georgia","2017","GE","Hydro",9096.8,"GEO","Population, total","SP.POP.TOTL",3728004,2440.12613720372
+"Georgia","2017","GE","Nuclear",0,"GEO","Population, total","SP.POP.TOTL",3728004,0
+"Georgia","2017","GE","Solar",0,"GEO","Population, total","SP.POP.TOTL",3728004,0
+"Georgia","2017","GE","Total Renewable",9184.5,"GEO","Population, total","SP.POP.TOTL",3728004,2463.65079007426
+"Georgia","2017","GE","Other",0,"GEO","Population, total","SP.POP.TOTL",3728004,0
+"Georgia","2017","GE","Geothermal",0,"GEO","Population, total","SP.POP.TOTL",3728004,0
+"Georgia","2017","GE","% Renewable",81.16527333,"GEO","Population, total","SP.POP.TOTL",3728004,21.771777425668
+"Georgia","2018","GE","Solar",0,"GEO","Population, total","SP.POP.TOTL",3726549,0
+"Georgia","2018","GE","Conventional thermal",2114.901,"GEO","Population, total","SP.POP.TOTL",3726549,567.522659704729
+"Georgia","2018","GE","Other",0,"GEO","Population, total","SP.POP.TOTL",3726549,0
+"Georgia","2018","GE","Geothermal",0,"GEO","Population, total","SP.POP.TOTL",3726549,0
+"Georgia","2018","GE","Nuclear",0,"GEO","Population, total","SP.POP.TOTL",3726549,0
+"Georgia","2018","GE","Total Renewable",10033.613,"GEO","Population, total","SP.POP.TOTL",3726549,2692.46774965256
+"Georgia","2018","GE","Wind",84.226,"GEO","Population, total","SP.POP.TOTL",3726549,22.6016080829744
+"Georgia","2018","GE","Hydro",9949.387,"GEO","Population, total","SP.POP.TOTL",3726549,2669.86614156959
+"Georgia","2018","GE","% Renewable",82.59127824,"GEO","Population, total","SP.POP.TOTL",3726549,22.162939019452
+"Germany","2016","DE","Conventional thermal",390141,"DEU","Population, total","SP.POP.TOTL",82348669,4737.67220208501
+"Germany","2016","DE","Wind",78218,"DEU","Population, total","SP.POP.TOTL",82348669,949.839274269266
+"Germany","2016","DE","Geothermal",165,"DEU","Population, total","SP.POP.TOTL",82348669,2.00367537209375
+"Germany","2016","DE","Nuclear",80038,"DEU","Population, total","SP.POP.TOTL",82348669,971.940420797815
+"Germany","2016","DE","% Renewable",35.86295162,"DEU","Population, total","SP.POP.TOTL",82348669,0.435501290494446
+"Germany","2016","DE","Hydro",25690,"DEU","Population, total","SP.POP.TOTL",82348669,311.966183691445
+"Germany","2016","DE","Other",1805,"DEU","Population, total","SP.POP.TOTL",82348669,21.9189942219953
+"Germany","2016","DE","Solar",38098,"DEU","Population, total","SP.POP.TOTL",82348669,462.642571672895
+"Germany","2016","DE","Total Renewable",222209,"DEU","Population, total","SP.POP.TOTL",82348669,2698.39212580351
+"Germany","2017","DE","Conventional thermal",376128,"DEU","Population, total","SP.POP.TOTL",82657002,4550.4674848962
+"Germany","2017","DE","Hydro",25888,"DEU","Population, total","SP.POP.TOTL",82657002,313.197906693979
+"Germany","2017","DE","Other",1623,"DEU","Population, total","SP.POP.TOTL",82657002,19.6353601114156
+"Germany","2017","DE","Solar",39401,"DEU","Population, total","SP.POP.TOTL",82657002,476.680729359141
+"Germany","2017","DE","Wind",103707,"DEU","Population, total","SP.POP.TOTL",82657002,1254.66684601021
+"Germany","2017","DE","Total Renewable",241308,"DEU","Population, total","SP.POP.TOTL",82657002,2919.38969671317
+"Germany","2017","DE","Nuclear",72155,"DEU","Population, total","SP.POP.TOTL",82657002,872.94479903832
+"Germany","2017","DE","% Renewable",38.61119512,"DEU","Population, total","SP.POP.TOTL",82657002,0.467125520957075
+"Germany","2017","DE","Geothermal",157,"DEU","Population, total","SP.POP.TOTL",82657002,1.8994156115171
+"Germany","2018","DE","Hydro",20041.878,"DEU","Population, total","SP.POP.TOTL",82905782,241.742825608955
+"Germany","2018","DE","Wind",112174,"DEU","Population, total","SP.POP.TOTL",82905782,1353.02987673405
+"Germany","2018","DE","Total Renewable",250839.261,"DEU","Population, total","SP.POP.TOTL",82905782,3025.59429449685
+"Germany","2018","DE","Nuclear",72274.133,"DEU","Population, total","SP.POP.TOTL",82905782,871.762273468454
+"Germany","2018","DE","Conventional thermal",320437.701,"DEU","Population, total","SP.POP.TOTL",82905782,3865.08266697249
+"Germany","2018","DE","Other",522.751,"DEU","Population, total","SP.POP.TOTL",82905782,6.30536239318025
+"Germany","2018","DE","Solar",46184,"DEU","Population, total","SP.POP.TOTL",82905782,557.066092205728
+"Germany","2018","DE","% Renewable",43.36322578,"DEU","Population, total","SP.POP.TOTL",82905782,0.52304223823617
+"Germany","2018","DE","Geothermal",165.25,"DEU","Population, total","SP.POP.TOTL",82905782,1.99322647966821
+"Greece","2016","EL","Conventional thermal",35586,"GRC","Population, total","SP.POP.TOTL",10775971,3302.34741723043
+"Greece","2016","EL","Wind",5146,"GRC","Population, total","SP.POP.TOTL",10775971,477.54397260349
+"Greece","2016","EL","Hydro",5565,"GRC","Population, total","SP.POP.TOTL",10775971,516.426779544971
+"Greece","2016","EL","Nuclear",0,"GRC","Population, total","SP.POP.TOTL",10775971,0
+"Greece","2016","EL","Solar",3930,"GRC","Population, total","SP.POP.TOTL",10775971,364.700313317473
+"Greece","2016","EL","% Renewable",29.13689825,"GRC","Population, total","SP.POP.TOTL",10775971,2.70387682464995
+"Greece","2016","EL","Total Renewable",14641,"GRC","Population, total","SP.POP.TOTL",10775971,1358.67106546593
+"Greece","2016","EL","Other",0,"GRC","Population, total","SP.POP.TOTL",10775971,0
+"Greece","2016","EL","Geothermal",0,"GRC","Population, total","SP.POP.TOTL",10775971,0
+"Greece","2017","EL","Solar",3991.477,"GRC","Population, total","SP.POP.TOTL",10754679,371.138645793147
+"Greece","2017","EL","Conventional thermal",37021.751,"GRC","Population, total","SP.POP.TOTL",10754679,3442.38549565264
+"Greece","2017","EL","Hydro",4039,"GRC","Population, total","SP.POP.TOTL",10754679,375.55746666172
+"Greece","2017","EL","Nuclear",0,"GRC","Population, total","SP.POP.TOTL",10754679,0
+"Greece","2017","EL","Geothermal",0,"GRC","Population, total","SP.POP.TOTL",10754679,0
+"Greece","2017","EL","Wind",5536.987,"GRC","Population, total","SP.POP.TOTL",10754679,514.844469091081
+"Greece","2017","EL","Total Renewable",13567.464,"GRC","Population, total","SP.POP.TOTL",10754679,1261.54058154595
+"Greece","2017","EL","Other",0,"GRC","Population, total","SP.POP.TOTL",10754679,0
+"Greece","2017","EL","% Renewable",26.7779913,"GRC","Population, total","SP.POP.TOTL",10754679,2.4898921948298
+"Greece","2018","EL","Solar",3792.038,"GRC","Population, total","SP.POP.TOTL",10732882,353.310322427844
+"Greece","2018","EL","Wind",6300.26,"GRC","Population, total","SP.POP.TOTL",10732882,587.005428737594
+"Greece","2018","EL","Hydro",5802.417,"GRC","Population, total","SP.POP.TOTL",10732882,540.620590070775
+"Greece","2018","EL","Nuclear",0,"GRC","Population, total","SP.POP.TOTL",10732882,0
+"Greece","2018","EL","% Renewable",30.95666536,"GRC","Population, total","SP.POP.TOTL",10732882,2.88428265213388
+"Greece","2018","EL","Total Renewable",15894.715,"GRC","Population, total","SP.POP.TOTL",10732882,1480.93634123621
+"Greece","2018","EL","Other",10.99,"GRC","Population, total","SP.POP.TOTL",10732882,1.02395610051429
+"Greece","2018","EL","Geothermal",0,"GRC","Population, total","SP.POP.TOTL",10732882,0
+"Greece","2018","EL","Conventional thermal",34803.244,"GRC","Population, total","SP.POP.TOTL",10732882,3242.67461433006
+"Hungary","2016","HU","Solar",241,"HUN","Population, total","SP.POP.TOTL",9814023,24.556698104335
+"Hungary","2016","HU","Conventional thermal",13156,"HUN","Population, total","SP.POP.TOTL",9814023,1340.5307894632
+"Hungary","2016","HU","Hydro",253,"HUN","Population, total","SP.POP.TOTL",9814023,25.7794382589077
+"Hungary","2016","HU","Nuclear",15162,"HUN","Population, total","SP.POP.TOTL",9814023,1544.9321853026
+"Hungary","2016","HU","Geothermal",0,"HUN","Population, total","SP.POP.TOTL",9814023,0
+"Hungary","2016","HU","Wind",665,"HUN","Population, total","SP.POP.TOTL",9814023,67.7601835659036
+"Hungary","2016","HU","Total Renewable",16321,"HUN","Population, total","SP.POP.TOTL",9814023,1663.02850523175
+"Hungary","2016","HU","Other",71,"HUN","Population, total","SP.POP.TOTL",9814023,7.23454591455512
+"Hungary","2016","HU","% Renewable",55.23554894,"HUN","Population, total","SP.POP.TOTL",9814023,5.62822697073361
+"Hungary","2017","HU","Solar",346,"HUN","Population, total","SP.POP.TOTL",9787966,35.3495302292632
+"Hungary","2017","HU","Conventional thermal",14096,"HUN","Population, total","SP.POP.TOTL",9787966,1440.13577488929
+"Hungary","2017","HU","Hydro",214,"HUN","Population, total","SP.POP.TOTL",9787966,21.8635822805269
+"Hungary","2017","HU","Nuclear",15206,"HUN","Population, total","SP.POP.TOTL",9787966,1553.54033718548
+"Hungary","2017","HU","% Renewable",53.80101708,"HUN","Population, total","SP.POP.TOTL",9787966,5.49664936310567
+"Hungary","2017","HU","Wind",737,"HUN","Population, total","SP.POP.TOTL",9787966,75.2965427137773
+"Hungary","2017","HU","Total Renewable",16504,"HUN","Population, total","SP.POP.TOTL",9787966,1686.15215868138
+"Hungary","2017","HU","Other",76,"HUN","Population, total","SP.POP.TOTL",9787966,7.76463669775723
+"Hungary","2017","HU","Geothermal",1,"HUN","Population, total","SP.POP.TOTL",9787966,0.102166272338911
+"Hungary","2018","HU","Geothermal",6.047,"HUN","Population, total","SP.POP.TOTL",9775564,0.618583234685999
+"Hungary","2018","HU","Wind",589.406,"HUN","Population, total","SP.POP.TOTL",9775564,60.2938101576543
+"Hungary","2018","HU","Hydro",215.862,"HUN","Population, total","SP.POP.TOTL",9775564,22.0817949736711
+"Hungary","2018","HU","Nuclear",14854.662,"HUN","Population, total","SP.POP.TOTL",9775564,1519.57084010703
+"Hungary","2018","HU","% Renewable",54.6564744,"HUN","Population, total","SP.POP.TOTL",9775564,5.59113258324532
+"Hungary","2018","HU","Conventional thermal",13489.644,"HUN","Population, total","SP.POP.TOTL",9775564,1379.93511167233
+"Hungary","2018","HU","Total Renewable",16260.235,"HUN","Population, total","SP.POP.TOTL",9775564,1663.35517827923
+"Hungary","2018","HU","Other",0,"HUN","Population, total","SP.POP.TOTL",9775564,0
+"Hungary","2018","HU","Solar",594.258,"HUN","Population, total","SP.POP.TOTL",9775564,60.7901498061902
+"Ireland","2016","IE","Conventional thermal",22571.711,"IRL","Population, total","SP.POP.TOTL",4755335,4746.60796768261
+"Ireland","2016","IE","Solar",6.16,"IRL","Population, total","SP.POP.TOTL",4755335,1.29538718092416
+"Ireland","2016","IE","Other",0,"IRL","Population, total","SP.POP.TOTL",4755335,0
+"Ireland","2016","IE","Hydro",962.861,"IRL","Population, total","SP.POP.TOTL",4755335,202.480161755166
+"Ireland","2016","IE","Nuclear",0,"IRL","Population, total","SP.POP.TOTL",4755335,0
+"Ireland","2016","IE","Wind",6148.508,"IRL","Population, total","SP.POP.TOTL",4755335,1292.97052678728
+"Ireland","2016","IE","% Renewable",23.74257437,"IRL","Population, total","SP.POP.TOTL",4755335,4.99282897419425
+"Ireland","2016","IE","Total Renewable",7117.529,"IRL","Population, total","SP.POP.TOTL",4755335,1496.74607572337
+"Ireland","2016","IE","Geothermal",0,"IRL","Population, total","SP.POP.TOTL",4755335,0
+"Ireland","2017","IE","Solar",10.801,"IRL","Population, total","SP.POP.TOTL",4807388,2.24675021030131
+"Ireland","2017","IE","Total Renewable",8341.308,"IRL","Population, total","SP.POP.TOTL",4807388,1735.10188900917
+"Ireland","2017","IE","Other",0,"IRL","Population, total","SP.POP.TOTL",4807388,0
+"Ireland","2017","IE","% Renewable",27.53983256,"IRL","Population, total","SP.POP.TOTL",4807388,5.72864777296944
+"Ireland","2017","IE","Conventional thermal",21745.666,"IRL","Population, total","SP.POP.TOTL",4807388,4523.38484016684
+"Ireland","2017","IE","Nuclear",0,"IRL","Population, total","SP.POP.TOTL",4807388,0
+"Ireland","2017","IE","Geothermal",0,"IRL","Population, total","SP.POP.TOTL",4807388,0
+"Ireland","2017","IE","Wind",7444.742,"IRL","Population, total","SP.POP.TOTL",4807388,1548.60435646135
+"Ireland","2017","IE","Hydro",885.765,"IRL","Population, total","SP.POP.TOTL",4807388,184.250782337519
+"Ireland","2018","IE","Solar",0,"IRL","Population, total","SP.POP.TOTL",4867316,0
+"Ireland","2018","IE","Nuclear",0,"IRL","Population, total","SP.POP.TOTL",4867316,0
+"Ireland","2018","IE","Conventional thermal",19963.734,"IRL","Population, total","SP.POP.TOTL",4867316,4101.58987006391
+"Ireland","2018","IE","Geothermal",0,"IRL","Population, total","SP.POP.TOTL",4867316,0
+"Ireland","2018","IE","Hydro",921.979,"IRL","Population, total","SP.POP.TOTL",4867316,189.422466098359
+"Ireland","2018","IE","Total Renewable",9271.151,"IRL","Population, total","SP.POP.TOTL",4867316,1904.77688319394
+"Ireland","2018","IE","Other",0,"IRL","Population, total","SP.POP.TOTL",4867316,0
+"Ireland","2018","IE","Wind",8349.172,"IRL","Population, total","SP.POP.TOTL",4867316,1715.35441709558
+"Ireland","2018","IE","% Renewable",31.45981443,"IRL","Population, total","SP.POP.TOTL",4867316,6.46348304281045
+"Italy","2016","IT","Conventional thermal",190121,"ITA","Population, total","SP.POP.TOTL",60627498,3135.88728335779
+"Italy","2016","IT","Other",650,"ITA","Population, total","SP.POP.TOTL",60627498,10.7212077265666
+"Italy","2016","IT","Geothermal",5867,"ITA","Population, total","SP.POP.TOTL",60627498,96.7712703565633
+"Italy","2016","IT","Nuclear",0,"ITA","Population, total","SP.POP.TOTL",60627498,0
+"Italy","2016","IT","Total Renewable",88931.622,"ITA","Population, total","SP.POP.TOTL",60627498,1466.85291218846
+"Italy","2016","IT","Wind",17523,"ITA","Population, total","SP.POP.TOTL",60627498,289.027266142502
+"Italy","2016","IT","Hydro",43784.622,"ITA","Population, total","SP.POP.TOTL",60627498,722.190811832611
+"Italy","2016","IT","% Renewable",31.58892791,"ITA","Population, total","SP.POP.TOTL",60627498,0.521033012280995
+"Italy","2016","IT","Solar",21757,"ITA","Population, total","SP.POP.TOTL",60627498,358.863563856783
+"Italy","2017","IT","Conventional thermal",199722.444,"ITA","Population, total","SP.POP.TOTL",60536709,3299.19560047442
+"Italy","2017","IT","Wind",17565.332,"ITA","Population, total","SP.POP.TOTL",60536709,290.160008533004
+"Italy","2017","IT","Hydro",37556.721,"ITA","Population, total","SP.POP.TOTL",60536709,620.395816363258
+"Italy","2017","IT","Nuclear",0,"ITA","Population, total","SP.POP.TOTL",60536709,0
+"Italy","2017","IT","Solar",24016.821,"ITA","Population, total","SP.POP.TOTL",60536709,396.731526981422
+"Italy","2017","IT","Total Renewable",84960.334,"ITA","Population, total","SP.POP.TOTL",60536709,1403.45148263676
+"Italy","2017","IT","Other",582.871,"ITA","Population, total","SP.POP.TOTL",60536709,9.62838928029603
+"Italy","2017","IT","Geothermal",5821.46,"ITA","Population, total","SP.POP.TOTL",60536709,96.1641307590738
+"Italy","2017","IT","% Renewable",29.59345775,"ITA","Population, total","SP.POP.TOTL",60536709,0.488851446318299
+"Italy","2018","IT","Nuclear",0,"ITA","Population, total","SP.POP.TOTL",60421760,0
+"Italy","2018","IT","Conventional thermal",185046,"ITA","Population, total","SP.POP.TOTL",60421760,3062.57215943395
+"Italy","2018","IT","Other",0,"ITA","Population, total","SP.POP.TOTL",60421760,0
+"Italy","2018","IT","Geothermal",5708,"ITA","Population, total","SP.POP.TOTL",60421760,94.4692772934784
+"Italy","2018","IT","% Renewable",33.77065698,"ITA","Population, total","SP.POP.TOTL",60421760,0.558915479787414
+"Italy","2018","IT","Total Renewable",95188,"ITA","Population, total","SP.POP.TOTL",60421760,1575.39270620386
+"Italy","2018","IT","Wind",17318,"ITA","Population, total","SP.POP.TOTL",60421760,286.618595684733
+"Italy","2018","IT","Hydro",49275,"ITA","Population, total","SP.POP.TOTL",60421760,815.517455962885
+"Italy","2018","IT","Solar",22887,"ITA","Population, total","SP.POP.TOTL",60421760,378.787377262761
+"Latvia","2016","LV","Conventional thermal",3277,"LVA","Population, total","SP.POP.TOTL",1959537,1672.33382171401
+"Latvia","2016","LV","Wind",127,"LVA","Population, total","SP.POP.TOTL",1959537,64.8112283667009
+"Latvia","2016","LV","Nuclear",0,"LVA","Population, total","SP.POP.TOTL",1959537,0
+"Latvia","2016","LV","Solar",0,"LVA","Population, total","SP.POP.TOTL",1959537,0
+"Latvia","2016","LV","% Renewable",44.7106462,"LVA","Population, total","SP.POP.TOTL",1959537,22.8169441046533
+"Latvia","2016","LV","Hydro",2523,"LVA","Population, total","SP.POP.TOTL",1959537,1287.54904857627
+"Latvia","2016","LV","Other",0,"LVA","Population, total","SP.POP.TOTL",1959537,0
+"Latvia","2016","LV","Geothermal",0,"LVA","Population, total","SP.POP.TOTL",1959537,0
+"Latvia","2016","LV","Total Renewable",2650,"LVA","Population, total","SP.POP.TOTL",1959537,1352.36027694297
+"Latvia","2017","LV","Conventional thermal",2520.383,"LVA","Population, total","SP.POP.TOTL",1942248,1297.66281134026
+"Latvia","2017","LV","Hydro",4355.513,"LVA","Population, total","SP.POP.TOTL",1942248,2242.51125499936
+"Latvia","2017","LV","Nuclear",0,"LVA","Population, total","SP.POP.TOTL",1942248,0
+"Latvia","2017","LV","Solar",0.44,"LVA","Population, total","SP.POP.TOTL",1942248,0.226541615694803
+"Latvia","2017","LV","Wind",148.523,"LVA","Population, total","SP.POP.TOTL",1942248,76.4696372450892
+"Latvia","2017","LV","Total Renewable",4504.476,"LVA","Population, total","SP.POP.TOTL",1942248,2319.20743386015
+"Latvia","2017","LV","Other",0,"LVA","Population, total","SP.POP.TOTL",1942248,0
+"Latvia","2017","LV","Geothermal",0,"LVA","Population, total","SP.POP.TOTL",1942248,0
+"Latvia","2017","LV","% Renewable",64.12194181,"LVA","Population, total","SP.POP.TOTL",1942248,33.0142915889217
+"Latvia","2018","LV","Wind",120,"LVA","Population, total","SP.POP.TOTL",1927174,62.2673406760365
+"Latvia","2018","LV","Hydro",2418,"LVA","Population, total","SP.POP.TOTL",1927174,1254.68691462214
+"Latvia","2018","LV","Nuclear",0,"LVA","Population, total","SP.POP.TOTL",1927174,0
+"Latvia","2018","LV","Solar",0,"LVA","Population, total","SP.POP.TOTL",1927174,0
+"Latvia","2018","LV","% Renewable",39.04615385,"LVA","Population, total","SP.POP.TOTL",1927174,20.2608346988907
+"Latvia","2018","LV","Total Renewable",2538,"LVA","Population, total","SP.POP.TOTL",1927174,1316.95425529817
+"Latvia","2018","LV","Other",0,"LVA","Population, total","SP.POP.TOTL",1927174,0
+"Latvia","2018","LV","Geothermal",0,"LVA","Population, total","SP.POP.TOTL",1927174,0
+"Latvia","2018","LV","Conventional thermal",3962,"LVA","Population, total","SP.POP.TOTL",1927174,2055.86003132047
+"Lithuania","2016","LT","Conventional thermal",1566,"LTU","Population, total","SP.POP.TOTL",2868231,545.981129134997
+"Lithuania","2016","LT","Other",262,"LTU","Population, total","SP.POP.TOTL",2868231,91.3455018093034
+"Lithuania","2016","LT","Nuclear",0,"LTU","Population, total","SP.POP.TOTL",2868231,0
+"Lithuania","2016","LT","Total Renewable",2223,"LTU","Population, total","SP.POP.TOTL",2868231,775.042177565196
+"Lithuania","2016","LT","Wind",1130,"LTU","Population, total","SP.POP.TOTL",2868231,393.971057421805
+"Lithuania","2016","LT","Hydro",1027,"LTU","Population, total","SP.POP.TOTL",2868231,358.06042121433
+"Lithuania","2016","LT","% Renewable",48.03370787,"LTU","Population, total","SP.POP.TOTL",2868231,16.7468059127734
+"Lithuania","2016","LT","Solar",66,"LTU","Population, total","SP.POP.TOTL",2868231,23.0106989290612
+"Lithuania","2016","LT","Geothermal",0,"LTU","Population, total","SP.POP.TOTL",2868231,0
+"Lithuania","2017","LT","Conventional thermal",1165.3,"LTU","Population, total","SP.POP.TOTL",2828403,411.999280159157
+"Lithuania","2017","LT","Wind",1356.2,"LTU","Population, total","SP.POP.TOTL",2828403,479.493198105079
+"Lithuania","2017","LT","Hydro",1164.6,"LTU","Population, total","SP.POP.TOTL",2828403,411.751790674808
+"Lithuania","2017","LT","Solar",67,"LTU","Population, total","SP.POP.TOTL",2828403,23.688279216222
+"Lithuania","2017","LT","Total Renewable",2587.8,"LTU","Population, total","SP.POP.TOTL",2828403,914.93326799611
+"Lithuania","2017","LT","Other",243,"LTU","Population, total","SP.POP.TOTL",2828403,85.9142067095813
+"Lithuania","2017","LT","Nuclear",0,"LTU","Population, total","SP.POP.TOTL",2828403,0
+"Lithuania","2017","LT","% Renewable",56.70523271,"LTU","Population, total","SP.POP.TOTL",2828403,20.048498290378
+"Lithuania","2017","LT","Geothermal",0,"LTU","Population, total","SP.POP.TOTL",2828403,0
+"Lithuania","2018","LT","Solar",80.014,"LTU","Population, total","SP.POP.TOTL",2801543,28.5606895914144
+"Lithuania","2018","LT","Conventional thermal",802.835,"LTU","Population, total","SP.POP.TOTL",2801543,286.568865800025
+"Lithuania","2018","LT","Other",223.212,"LTU","Population, total","SP.POP.TOTL",2801543,79.6746649971105
+"Lithuania","2018","LT","Nuclear",0,"LTU","Population, total","SP.POP.TOTL",2801543,0
+"Lithuania","2018","LT","Total Renewable",2157.048,"LTU","Population, total","SP.POP.TOTL",2801543,769.949988274319
+"Lithuania","2018","LT","Wind",1136.357,"LTU","Population, total","SP.POP.TOTL",2801543,405.618261079698
+"Lithuania","2018","LT","Geothermal",0,"LTU","Population, total","SP.POP.TOTL",2801543,0
+"Lithuania","2018","LT","% Renewable",58.3493901,"LTU","Population, total","SP.POP.TOTL",2801543,20.8275904028601
+"Lithuania","2018","LT","Hydro",940.677,"LTU","Population, total","SP.POP.TOTL",2801543,335.771037603207
+"Luxembourg","2016","LU","Conventional thermal",449.564,"LUX","Population, total","SP.POP.TOTL",582014,772.428154649201
+"Luxembourg","2016","LU","Solar",100.288,"LUX","Population, total","SP.POP.TOTL",582014,172.3120062404
+"Luxembourg","2016","LU","Geothermal",0,"LUX","Population, total","SP.POP.TOTL",582014,0
+"Luxembourg","2016","LU","Hydro",1516.352,"LUX","Population, total","SP.POP.TOTL",582014,2605.35313583522
+"Luxembourg","2016","LU","Nuclear",0,"LUX","Population, total","SP.POP.TOTL",582014,0
+"Luxembourg","2016","LU","Other",0,"LUX","Population, total","SP.POP.TOTL",582014,0
+"Luxembourg","2016","LU","Wind",101.486,"LUX","Population, total","SP.POP.TOTL",582014,174.370375970337
+"Luxembourg","2016","LU","% Renewable",48.09502522,"LUX","Population, total","SP.POP.TOTL",582014,82.6355125821716
+"Luxembourg","2016","LU","Total Renewable",1718.126,"LUX","Population, total","SP.POP.TOTL",582014,2952.03551804596
+"Luxembourg","2017","LU","Total Renewable",1754.571,"LUX","Population, total","SP.POP.TOTL",596336,2942.2523543774
+"Luxembourg","2017","LU","Other",0,"LUX","Population, total","SP.POP.TOTL",596336,0
+"Luxembourg","2017","LU","Geothermal",0,"LUX","Population, total","SP.POP.TOTL",596336,0
+"Luxembourg","2017","LU","% Renewable",49.64639165,"LUX","Population, total","SP.POP.TOTL",596336,83.2523806209922
+"Luxembourg","2017","LU","Solar",108.462,"LUX","Population, total","SP.POP.TOTL",596336,181.880684714658
+"Luxembourg","2017","LU","Nuclear",0,"LUX","Population, total","SP.POP.TOTL",596336,0
+"Luxembourg","2017","LU","Conventional thermal",450.167,"LUX","Population, total","SP.POP.TOTL",596336,754.888183842666
+"Luxembourg","2017","LU","Wind",234.823,"LUX","Population, total","SP.POP.TOTL",596336,393.776327439564
+"Luxembourg","2017","LU","Hydro",1411.286,"LUX","Population, total","SP.POP.TOTL",596336,2366.59534222318
+"Luxembourg","2018","LU","Solar",111.693,"LUX","Population, total","SP.POP.TOTL",607950,183.720700715519
+"Luxembourg","2018","LU","Nuclear",0,"LUX","Population, total","SP.POP.TOTL",607950,0
+"Luxembourg","2018","LU","Conventional thermal",463.132,"LUX","Population, total","SP.POP.TOTL",607950,761.792910601201
+"Luxembourg","2018","LU","Geothermal",0,"LUX","Population, total","SP.POP.TOTL",607950,0
+"Luxembourg","2018","LU","Hydro",1326.329,"LUX","Population, total","SP.POP.TOTL",607950,2181.64158236697
+"Luxembourg","2018","LU","Total Renewable",1701.73,"LUX","Population, total","SP.POP.TOTL",607950,2799.12821778107
+"Luxembourg","2018","LU","Other",0,"LUX","Population, total","SP.POP.TOTL",607950,0
+"Luxembourg","2018","LU","Wind",263.708,"LUX","Population, total","SP.POP.TOTL",607950,433.765934698577
+"Luxembourg","2018","LU","% Renewable",50.01534204,"LUX","Population, total","SP.POP.TOTL",607950,82.2688412533926
+"Malta","2016","MT","Conventional thermal",680,"MLT","Population, total","SP.POP.TOTL",455356,1493.3370813166
+"Malta","2016","MT","Other",0,"MLT","Population, total","SP.POP.TOTL",455356,0
+"Malta","2016","MT","Nuclear",0,"MLT","Population, total","SP.POP.TOTL",455356,0
+"Malta","2016","MT","Total Renewable",127.16,"MLT","Population, total","SP.POP.TOTL",455356,279.254034206204
+"Malta","2016","MT","Wind",0,"MLT","Population, total","SP.POP.TOTL",455356,0
+"Malta","2016","MT","Hydro",0,"MLT","Population, total","SP.POP.TOTL",455356,0
+"Malta","2016","MT","% Renewable",15.75400168,"MLT","Population, total","SP.POP.TOTL",455356,34.5971101292176
+"Malta","2016","MT","Solar",127.16,"MLT","Population, total","SP.POP.TOTL",455356,279.254034206204
+"Malta","2016","MT","Geothermal",0,"MLT","Population, total","SP.POP.TOTL",455356,0
+"Malta","2017","MT","Conventional thermal",1439.156,"MLT","Population, total","SP.POP.TOTL",467999,3075.1262289022
+"Malta","2017","MT","Wind",0.058,"MLT","Population, total","SP.POP.TOTL",467999,0.123931888743352
+"Malta","2017","MT","Hydro",0,"MLT","Population, total","SP.POP.TOTL",467999,0
+"Malta","2017","MT","Solar",155.245,"MLT","Population, total","SP.POP.TOTL",467999,331.720794275201
+"Malta","2017","MT","Total Renewable",155.303,"MLT","Population, total","SP.POP.TOTL",467999,331.844726163945
+"Malta","2017","MT","Other",0,"MLT","Population, total","SP.POP.TOTL",467999,0
+"Malta","2017","MT","Nuclear",0,"MLT","Population, total","SP.POP.TOTL",467999,0
+"Malta","2017","MT","% Renewable",9.740168922,"MLT","Population, total","SP.POP.TOTL",467999,20.8123712272889
+"Malta","2017","MT","Geothermal",0,"MLT","Population, total","SP.POP.TOTL",467999,0
+"Malta","2018","MT","Solar",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Malta","2018","MT","Conventional thermal",1716.49,"MLT","Population, total","SP.POP.TOTL",484630,3541.8566741638
+"Malta","2018","MT","Other",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Malta","2018","MT","Nuclear",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Malta","2018","MT","Total Renewable",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Malta","2018","MT","Wind",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Malta","2018","MT","Geothermal",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Malta","2018","MT","% Renewable",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Malta","2018","MT","Hydro",0,"MLT","Population, total","SP.POP.TOTL",484630,0
+"Montenegro","2016","ME","Conventional thermal",1216,"MNE","Population, total","SP.POP.TOTL",622303,1954.03203905493
+"Montenegro","2016","ME","Hydro",1807,"MNE","Population, total","SP.POP.TOTL",622303,2903.73017645745
+"Montenegro","2016","ME","Nuclear",0,"MNE","Population, total","SP.POP.TOTL",622303,0
+"Montenegro","2016","ME","Geothermal",0,"MNE","Population, total","SP.POP.TOTL",622303,0
+"Montenegro","2016","ME","Wind",0,"MNE","Population, total","SP.POP.TOTL",622303,0
+"Montenegro","2016","ME","Total Renewable",1807,"MNE","Population, total","SP.POP.TOTL",622303,2903.73017645745
+"Montenegro","2016","ME","Other",0,"MNE","Population, total","SP.POP.TOTL",622303,0
+"Montenegro","2016","ME","Solar",0,"MNE","Population, total","SP.POP.TOTL",622303,0
+"Montenegro","2016","ME","% Renewable",59.77505789,"MNE","Population, total","SP.POP.TOTL",622303,96.0545873794598
+"Montenegro","2017","ME","Conventional thermal",1265,"MNE","Population, total","SP.POP.TOTL",622373,2032.54318551737
+"Montenegro","2017","ME","Total Renewable",1098.8,"MNE","Population, total","SP.POP.TOTL",622373,1765.50075276402
+"Montenegro","2017","ME","Other",0,"MNE","Population, total","SP.POP.TOTL",622373,0
+"Montenegro","2017","ME","Geothermal",0,"MNE","Population, total","SP.POP.TOTL",622373,0
+"Montenegro","2017","ME","Solar",0,"MNE","Population, total","SP.POP.TOTL",622373,0
+"Montenegro","2017","ME","Wind",95,"MNE","Population, total","SP.POP.TOTL",622373,152.641583102095
+"Montenegro","2017","ME","Hydro",1003.8,"MNE","Population, total","SP.POP.TOTL",622373,1612.85916966192
+"Montenegro","2017","ME","Nuclear",0,"MNE","Population, total","SP.POP.TOTL",622373,0
+"Montenegro","2017","ME","% Renewable",46.48447415,"MNE","Population, total","SP.POP.TOTL",622373,74.6890918307831
+"Montenegro","2018","ME","Conventional thermal",1444,"MNE","Population, total","SP.POP.TOTL",622227,2320.69646608071
+"Montenegro","2018","ME","Solar",0,"MNE","Population, total","SP.POP.TOTL",622227,0
+"Montenegro","2018","ME","Hydro",2137,"MNE","Population, total","SP.POP.TOTL",622227,3434.43791413744
+"Montenegro","2018","ME","Nuclear",0,"MNE","Population, total","SP.POP.TOTL",622227,0
+"Montenegro","2018","ME","% Renewable",61.4213198,"MNE","Population, total","SP.POP.TOTL",622227,98.7120774251198
+"Montenegro","2018","ME","Wind",162,"MNE","Population, total","SP.POP.TOTL",622227,260.355143701575
+"Montenegro","2018","ME","Total Renewable",2299,"MNE","Population, total","SP.POP.TOTL",622227,3694.79305783902
+"Montenegro","2018","ME","Other",0,"MNE","Population, total","SP.POP.TOTL",622227,0
+"Montenegro","2018","ME","Geothermal",0,"MNE","Population, total","SP.POP.TOTL",622227,0
+"Netherlands","2016","NL","Conventional thermal",97271.8,"NLD","Population, total","SP.POP.TOTL",17030314,5711.68564478612
+"Netherlands","2016","NL","Other",138.101,"NLD","Population, total","SP.POP.TOTL",17030314,8.10912822863982
+"Netherlands","2016","NL","Hydro",100.079,"NLD","Population, total","SP.POP.TOTL",17030314,5.87652112579956
+"Netherlands","2016","NL","Nuclear",3750,"NLD","Population, total","SP.POP.TOTL",17030314,220.195587703198
+"Netherlands","2016","NL","Solar",1601.811,"NLD","Population, total","SP.POP.TOTL",17030314,94.0564572091859
+"Netherlands","2016","NL","Wind",8170.462,"NLD","Population, total","SP.POP.TOTL",17030314,479.759915172439
+"Netherlands","2016","NL","% Renewable",12.26882427,"NLD","Population, total","SP.POP.TOTL",17030314,0.720410925482642
+"Netherlands","2016","NL","Total Renewable",13622.352,"NLD","Population, total","SP.POP.TOTL",17030314,799.888481210622
+"Netherlands","2016","NL","Geothermal",0,"NLD","Population, total","SP.POP.TOTL",17030314,0
+"Netherlands","2017","NL","Solar",2204.344,"NLD","Population, total","SP.POP.TOTL",17131296,128.673510748982
+"Netherlands","2017","NL","Other",121.865,"NLD","Population, total","SP.POP.TOTL",17131296,7.11358907113624
+"Netherlands","2017","NL","% Renewable",14.19958328,"NLD","Population, total","SP.POP.TOTL",17131296,0.828868013254806
+"Netherlands","2017","NL","Total Renewable",16111.562,"NLD","Population, total","SP.POP.TOTL",17131296,940.475373258392
+"Netherlands","2017","NL","Nuclear",3277.664,"NLD","Population, total","SP.POP.TOTL",17131296,191.326096986474
+"Netherlands","2017","NL","Geothermal",0,"NLD","Population, total","SP.POP.TOTL",17131296,0
+"Netherlands","2017","NL","Wind",10568.797,"NLD","Population, total","SP.POP.TOTL",17131296,616.929215396197
+"Netherlands","2017","NL","Hydro",60.757,"NLD","Population, total","SP.POP.TOTL",17131296,3.54655012673881
+"Netherlands","2017","NL","Conventional thermal",97231.607,"NLD","Population, total","SP.POP.TOTL",17131296,5675.67141446858
+"Netherlands","2018","NL","Solar",2423,"NLD","Population, total","SP.POP.TOTL",17231624,140.613560277313
+"Netherlands","2018","NL","Nuclear",3313.371,"NLD","Population, total","SP.POP.TOTL",17231624,192.284314003137
+"Netherlands","2018","NL","Geothermal",0,"NLD","Population, total","SP.POP.TOTL",17231624,0
+"Netherlands","2018","NL","Hydro",86,"NLD","Population, total","SP.POP.TOTL",17231624,4.99082384805982
+"Netherlands","2018","NL","Total Renewable",18101.371,"NLD","Population, total","SP.POP.TOTL",17231624,1050.47388452766
+"Netherlands","2018","NL","Conventional thermal",94450,"NLD","Population, total","SP.POP.TOTL",17231624,5481.20130754942
+"Netherlands","2018","NL","Wind",12279,"NLD","Population, total","SP.POP.TOTL",17231624,712.585186399146
+"Netherlands","2018","NL","% Renewable",16.08276367,"NLD","Population, total","SP.POP.TOTL",17231624,0.933328377522629
+"Netherlands","2018","NL","Other",0,"NLD","Population, total","SP.POP.TOTL",17231624,0
+"North Macedonia","2016","MK","Solar",23.699,"MKD","Population, total","SP.POP.TOTL",2080745,11.3896705266623
+"North Macedonia","2016","MK","Geothermal",0,"MKD","Population, total","SP.POP.TOTL",2080745,0
+"North Macedonia","2016","MK","% Renewable",37.90270829,"MKD","Population, total","SP.POP.TOTL",2080745,18.2159314524365
+"North Macedonia","2016","MK","Total Renewable",2002.875,"MKD","Population, total","SP.POP.TOTL",2080745,962.575904303507
+"North Macedonia","2016","MK","Other",0,"MKD","Population, total","SP.POP.TOTL",2080745,0
+"North Macedonia","2016","MK","Nuclear",0,"MKD","Population, total","SP.POP.TOTL",2080745,0
+"North Macedonia","2016","MK","Conventional thermal",3281.378,"MKD","Population, total","SP.POP.TOTL",2080745,1577.02073055564
+"North Macedonia","2016","MK","Wind",109.482,"MKD","Population, total","SP.POP.TOTL",2080745,52.6167310266275
+"North Macedonia","2016","MK","Hydro",1869.694,"MKD","Population, total","SP.POP.TOTL",2080745,898.569502750217
+"North Macedonia","2017","MK","Other",0,"MKD","Population, total","SP.POP.TOTL",2081996,0
+"North Macedonia","2017","MK","Geothermal",0,"MKD","Population, total","SP.POP.TOTL",2081996,0
+"North Macedonia","2017","MK","% Renewable",23.36498073,"MKD","Population, total","SP.POP.TOTL",2081996,11.2223946299609
+"North Macedonia","2017","MK","Total Renewable",1221.256,"MKD","Population, total","SP.POP.TOTL",2081996,586.579417059399
+"North Macedonia","2017","MK","Solar",23.752,"MKD","Population, total","SP.POP.TOTL",2081996,11.4082832051551
+"North Macedonia","2017","MK","Nuclear",0,"MKD","Population, total","SP.POP.TOTL",2081996,0
+"North Macedonia","2017","MK","Conventional thermal",4005.609,"MKD","Population, total","SP.POP.TOTL",2081996,1923.92732743002
+"North Macedonia","2017","MK","Wind",110.48,"MKD","Population, total","SP.POP.TOTL",2081996,53.0644631401789
+"North Macedonia","2017","MK","Hydro",1087.024,"MKD","Population, total","SP.POP.TOTL",2081996,522.106670714065
+"North Macedonia","2018","MK","Other",0,"MKD","Population, total","SP.POP.TOTL",2082958,0
+"North Macedonia","2018","MK","Geothermal",0,"MKD","Population, total","SP.POP.TOTL",2082958,0
+"North Macedonia","2018","MK","% Renewable",36.40888008,"MKD","Population, total","SP.POP.TOTL",2082958,17.4794115291811
+"North Macedonia","2018","MK","Total Renewable",1894.622,"MKD","Population, total","SP.POP.TOTL",2082958,909.582430370656
+"North Macedonia","2018","MK","Hydro",1774.496,"MKD","Population, total","SP.POP.TOTL",2082958,851.911560386719
+"North Macedonia","2018","MK","Nuclear",0,"MKD","Population, total","SP.POP.TOTL",2082958,0
+"North Macedonia","2018","MK","Conventional thermal",3309.114,"MKD","Population, total","SP.POP.TOTL",2082958,1588.66093315372
+"North Macedonia","2018","MK","Wind",97.338,"MKD","Population, total","SP.POP.TOTL",2082958,46.7306589955246
+"North Macedonia","2018","MK","Solar",22.788,"MKD","Population, total","SP.POP.TOTL",2082958,10.9402109884117
+"Norway","2016","NO","Conventional thermal",3212,"NOR","Population, total","SP.POP.TOTL",5234519,613.618939963729
+"Norway","2016","NO","Other",297,"NOR","Population, total","SP.POP.TOTL",5234519,56.7387375993859
+"Norway","2016","NO","Geothermal",0,"NOR","Population, total","SP.POP.TOTL",5234519,0
+"Norway","2016","NO","Nuclear",0,"NOR","Population, total","SP.POP.TOTL",5234519,0
+"Norway","2016","NO","Total Renewable",145558,"NOR","Population, total","SP.POP.TOTL",5234519,27807.3305302741
+"Norway","2016","NO","Wind",2116,"NOR","Population, total","SP.POP.TOTL",5234519,404.239625455558
+"Norway","2016","NO","Hydro",143442,"NOR","Population, total","SP.POP.TOTL",5234519,27403.0909048186
+"Norway","2016","NO","% Renewable",96.99598843,"NOR","Population, total","SP.POP.TOTL",5234519,18.5300671236459
+"Norway","2016","NO","Solar",0,"NOR","Population, total","SP.POP.TOTL",5234519,0
+"Norway","2017","NO","Conventional thermal",3233,"NOR","Population, total","SP.POP.TOTL",5276968,612.662422815526
+"Norway","2017","NO","Wind",2852,"NOR","Population, total","SP.POP.TOTL",5276968,540.461871286693
+"Norway","2017","NO","Hydro",142276,"NOR","Population, total","SP.POP.TOTL",5276968,26961.6946701212
+"Norway","2017","NO","Nuclear",0,"NOR","Population, total","SP.POP.TOTL",5276968,0
+"Norway","2017","NO","Solar",0,"NOR","Population, total","SP.POP.TOTL",5276968,0
+"Norway","2017","NO","Total Renewable",145128,"NOR","Population, total","SP.POP.TOTL",5276968,27502.1565414079
+"Norway","2017","NO","Other",281,"NOR","Population, total","SP.POP.TOTL",5276968,53.2502755370129
+"Norway","2017","NO","Geothermal",0,"NOR","Population, total","SP.POP.TOTL",5276968,0
+"Norway","2017","NO","% Renewable",96.88182164,"NOR","Population, total","SP.POP.TOTL",5276968,18.3593725866824
+"Norway","2018","NO","Solar",0,"NOR","Population, total","SP.POP.TOTL",5311916,0
+"Norway","2018","NO","Conventional thermal",3457.28,"NOR","Population, total","SP.POP.TOTL",5311916,650.853665607664
+"Norway","2018","NO","Other",0,"NOR","Population, total","SP.POP.TOTL",5311916,0
+"Norway","2018","NO","Geothermal",0,"NOR","Population, total","SP.POP.TOTL",5311916,0
+"Norway","2018","NO","Nuclear",0,"NOR","Population, total","SP.POP.TOTL",5311916,0
+"Norway","2018","NO","Total Renewable",143387.907,"NOR","Population, total","SP.POP.TOTL",5311916,26993.6322411725
+"Norway","2018","NO","Wind",3875.881,"NOR","Population, total","SP.POP.TOTL",5311916,729.657810853937
+"Norway","2018","NO","Hydro",139512.026,"NOR","Population, total","SP.POP.TOTL",5311916,26263.9744303186
+"Norway","2018","NO","% Renewable",95.37822401,"NOR","Population, total","SP.POP.TOTL",5311916,17.9555218889003
+"Poland","2016","PL","Conventional thermal",136945,"POL","Population, total","SP.POP.TOTL",37970087,3606.6548912569
+"Poland","2016","PL","Other",64,"POL","Population, total","SP.POP.TOTL",37970087,1.68553735470767
+"Poland","2016","PL","Geothermal",0,"POL","Population, total","SP.POP.TOTL",37970087,0
+"Poland","2016","PL","Nuclear",0,"POL","Population, total","SP.POP.TOTL",37970087,0
+"Poland","2016","PL","Total Renewable",14994,"POL","Population, total","SP.POP.TOTL",37970087,394.889798382606
+"Poland","2016","PL","Wind",12279,"POL","Population, total","SP.POP.TOTL",37970087,323.386143413366
+"Poland","2016","PL","Hydro",2591,"POL","Population, total","SP.POP.TOTL",37970087,68.2379263444932
+"Poland","2016","PL","% Renewable",9.83361425,"POL","Population, total","SP.POP.TOTL",37970087,0.25898318984626
+"Poland","2016","PL","Solar",124,"POL","Population, total","SP.POP.TOTL",37970087,3.26572862474611
+"Poland","2017","PL","Conventional thermal",137068.099,"POL","Population, total","SP.POP.TOTL",37974826,3609.44640009674
+"Poland","2017","PL","Wind",14574.192,"POL","Population, total","SP.POP.TOTL",37974826,383.785616292225
+"Poland","2017","PL","Hydro",2999.86,"POL","Population, total","SP.POP.TOTL",37974826,78.9960169929416
+"Poland","2017","PL","Nuclear",0,"POL","Population, total","SP.POP.TOTL",37974826,0
+"Poland","2017","PL","% Renewable",11.42145011,"POL","Population, total","SP.POP.TOTL",37974826,0.300763724631681
+"Poland","2017","PL","Solar",165.463,"POL","Population, total","SP.POP.TOTL",37974826,4.35717598811381
+"Poland","2017","PL","Other",61.73,"POL","Population, total","SP.POP.TOTL",37974826,1.62555056868463
+"Poland","2017","PL","Geothermal",0,"POL","Population, total","SP.POP.TOTL",37974826,0
+"Poland","2017","PL","Total Renewable",17739.515,"POL","Population, total","SP.POP.TOTL",37974826,467.13880927328
+"Poland","2018","PL","% Renewable",9.798850943,"POL","Population, total","SP.POP.TOTL",37974750,0.258035956602743
+"Poland","2018","PL","Conventional thermal",138957.387,"POL","Population, total","SP.POP.TOTL",37974750,3659.20478739162
+"Poland","2018","PL","Other",0,"POL","Population, total","SP.POP.TOTL",37974750,0
+"Poland","2018","PL","Geothermal",0,"POL","Population, total","SP.POP.TOTL",37974750,0
+"Poland","2018","PL","Nuclear",0,"POL","Population, total","SP.POP.TOTL",37974750,0
+"Poland","2018","PL","Total Renewable",15139.113,"POL","Population, total","SP.POP.TOTL",37974750,398.66261134043
+"Poland","2018","PL","Wind",12487.345,"POL","Population, total","SP.POP.TOTL",37974750,328.832842875858
+"Poland","2018","PL","Hydro",2353.336,"POL","Population, total","SP.POP.TOTL",37974750,61.9710728839558
+"Poland","2018","PL","Solar",298.432,"POL","Population, total","SP.POP.TOTL",37974750,7.85869558061607
+"Portugal","2016","PT","Solar",870.603,"PRT","Population, total","SP.POP.TOTL",10325452,84.3162120166749
+"Portugal","2016","PT","Other",0,"PRT","Population, total","SP.POP.TOTL",10325452,0
+"Portugal","2016","PT","% Renewable",50.22652858,"PRT","Population, total","SP.POP.TOTL",10325452,4.86434187868967
+"Portugal","2016","PT","Total Renewable",30160.052,"PRT","Population, total","SP.POP.TOTL",10325452,2920.94254082049
+"Portugal","2016","PT","Hydro",16794.113,"PRT","Population, total","SP.POP.TOTL",10325452,1626.47727189086
+"Portugal","2016","PT","Nuclear",0,"PRT","Population, total","SP.POP.TOTL",10325452,0
+"Portugal","2016","PT","Geothermal",152,"PRT","Population, total","SP.POP.TOTL",10325452,14.7209051962084
+"Portugal","2016","PT","Wind",12343.336,"PRT","Population, total","SP.POP.TOTL",10325452,1195.42815171675
+"Portugal","2016","PT","Conventional thermal",28702,"PRT","Population, total","SP.POP.TOTL",10325452,2779.73303251034
+"Portugal","2017","PT","Solar",991.546,"PRT","Population, total","SP.POP.TOTL",10300300,96.2637981418017
+"Portugal","2017","PT","Other",0,"PRT","Population, total","SP.POP.TOTL",10300300,0
+"Portugal","2017","PT","Geothermal",193.007,"PRT","Population, total","SP.POP.TOTL",10300300,18.7379979223906
+"Portugal","2017","PT","Total Renewable",20786.955,"PRT","Population, total","SP.POP.TOTL",10300300,2018.09219148957
+"Portugal","2017","PT","Hydro",7489.938,"PRT","Population, total","SP.POP.TOTL",10300300,727.15726726406
+"Portugal","2017","PT","Nuclear",0,"PRT","Population, total","SP.POP.TOTL",10300300,0
+"Portugal","2017","PT","% Renewable",35.01319377,"PRT","Population, total","SP.POP.TOTL",10300300,3.39924019397493
+"Portugal","2017","PT","Wind",12112.464,"PRT","Population, total","SP.POP.TOTL",10300300,1175.93312816132
+"Portugal","2017","PT","Conventional thermal",36882.017,"PRT","Population, total","SP.POP.TOTL",10300300,3580.67405803714
+"Portugal","2018","PT","Total Renewable",27198,"PRT","Population, total","SP.POP.TOTL",10283822,2644.73655806178
+"Portugal","2018","PT","Other",0,"PRT","Population, total","SP.POP.TOTL",10283822,0
+"Portugal","2018","PT","% Renewable",44.43754595,"PRT","Population, total","SP.POP.TOTL",10283822,4.3211119319257
+"Portugal","2018","PT","Solar",974,"PRT","Population, total","SP.POP.TOTL",10283822,94.7118687974179
+"Portugal","2018","PT","Hydro",13489,"PRT","Population, total","SP.POP.TOTL",10283822,1311.67186674371
+"Portugal","2018","PT","Geothermal",205,"PRT","Population, total","SP.POP.TOTL",10283822,19.9342228988405
+"Portugal","2018","PT","Conventional thermal",30887,"PRT","Population, total","SP.POP.TOTL",10283822,3003.45533012921
+"Portugal","2018","PT","Wind",12530,"PRT","Population, total","SP.POP.TOTL",10283822,1218.41859962181
+"Portugal","2018","PT","Nuclear",0,"PRT","Population, total","SP.POP.TOTL",10283822,0
+"Romania","2016","RO","Conventional thermal",23304,"ROU","Population, total","SP.POP.TOTL",19702267,1182.80804944933
+"Romania","2016","RO","Hydro",18239,"ROU","Population, total","SP.POP.TOTL",19702267,925.731033895744
+"Romania","2016","RO","Nuclear",10366,"ROU","Population, total","SP.POP.TOTL",19702267,526.132348120143
+"Romania","2016","RO","Solar",1820,"ROU","Population, total","SP.POP.TOTL",19702267,92.3751566253772
+"Romania","2016","RO","Wind",6527,"ROU","Population, total","SP.POP.TOTL",19702267,331.281674337273
+"Romania","2016","RO","Total Renewable",36952,"ROU","Population, total","SP.POP.TOTL",19702267,1875.52021297854
+"Romania","2016","RO","Other",0,"ROU","Population, total","SP.POP.TOTL",19702267,0
+"Romania","2016","RO","Geothermal",0,"ROU","Population, total","SP.POP.TOTL",19702267,0
+"Romania","2016","RO","% Renewable",60.8133239,"ROU","Population, total","SP.POP.TOTL",19702267,3.08661556053423
+"Romania","2017","RO","Conventional thermal",24923.065,"ROU","Population, total","SP.POP.TOTL",19587290,1272.41006795733
+"Romania","2017","RO","Hydro",14687.531,"ROU","Population, total","SP.POP.TOTL",19587290,749.850081353776
+"Romania","2017","RO","Nuclear",10557.906,"ROU","Population, total","SP.POP.TOTL",19587290,539.018210278196
+"Romania","2017","RO","Solar",1855.674,"ROU","Population, total","SP.POP.TOTL",19587290,94.7386800317961
+"Romania","2017","RO","Wind",7331.254,"ROU","Population, total","SP.POP.TOTL",19587290,374.286284626408
+"Romania","2017","RO","Total Renewable",34432.365,"ROU","Population, total","SP.POP.TOTL",19587290,1757.89325629018
+"Romania","2017","RO","Other",0,"ROU","Population, total","SP.POP.TOTL",19587290,0
+"Romania","2017","RO","Geothermal",0,"ROU","Population, total","SP.POP.TOTL",19587290,0
+"Romania","2017","RO","% Renewable",57.6628863,"ROU","Population, total","SP.POP.TOTL",19587290,2.94389301940187
+"Romania","2018","RO","Wind",6261,"ROU","Population, total","SP.POP.TOTL",19472545,321.529620293598
+"Romania","2018","RO","Hydro",17653,"ROU","Population, total","SP.POP.TOTL",19472545,906.558439074091
+"Romania","2018","RO","Nuclear",10443,"ROU","Population, total","SP.POP.TOTL",19472545,536.293535333979
+"Romania","2018","RO","% Renewable",61.49484009,"ROU","Population, total","SP.POP.TOTL",19472545,3.15802788438799
+"Romania","2018","RO","Conventional thermal",22611,"ROU","Population, total","SP.POP.TOTL",19472545,1161.17333404545
+"Romania","2018","RO","Total Renewable",36111,"ROU","Population, total","SP.POP.TOTL",19472545,1854.45713439101
+"Romania","2018","RO","Other",0,"ROU","Population, total","SP.POP.TOTL",19472545,0
+"Romania","2018","RO","Geothermal",0,"ROU","Population, total","SP.POP.TOTL",19472545,0
+"Romania","2018","RO","Solar",1754,"ROU","Population, total","SP.POP.TOTL",19472545,90.0755396893421
+"Serbia","2016","RS","Conventional thermal",25161,"SRB","Population, total","SP.POP.TOTL",7058322,3564.72827394386
+"Serbia","2016","RS","Hydro",11429,"SRB","Population, total","SP.POP.TOTL",7058322,1619.22337915442
+"Serbia","2016","RS","Nuclear",0,"SRB","Population, total","SP.POP.TOTL",7058322,0
+"Serbia","2016","RS","Solar",12,"SRB","Population, total","SP.POP.TOTL",7058322,1.70012079358238
+"Serbia","2016","RS","Wind",26,"SRB","Population, total","SP.POP.TOTL",7058322,3.68359505276183
+"Serbia","2016","RS","Total Renewable",11467,"SRB","Population, total","SP.POP.TOTL",7058322,1624.60709500077
+"Serbia","2016","RS","Other",0,"SRB","Population, total","SP.POP.TOTL",7058322,0
+"Serbia","2016","RS","Geothermal",0,"SRB","Population, total","SP.POP.TOTL",7058322,0
+"Serbia","2016","RS","% Renewable",30.69654139,"SRB","Population, total","SP.POP.TOTL",7058322,4.34898569235011
+"Serbia","2017","RS","Wind",48.457,"SRB","Population, total","SP.POP.TOTL",7020858,6.90186299167424
+"Serbia","2017","RS","Hydro",9670.033,"SRB","Population, total","SP.POP.TOTL",7020858,1377.32923810736
+"Serbia","2017","RS","Nuclear",0,"SRB","Population, total","SP.POP.TOTL",7020858,0
+"Serbia","2017","RS","Solar",13.139,"SRB","Population, total","SP.POP.TOTL",7020858,1.87142369209006
+"Serbia","2017","RS","Conventional thermal",24566.923,"SRB","Population, total","SP.POP.TOTL",7020858,3499.13400897725
+"Serbia","2017","RS","Total Renewable",9731.629,"SRB","Population, total","SP.POP.TOTL",7020858,1386.10252479113
+"Serbia","2017","RS","Other",0,"SRB","Population, total","SP.POP.TOTL",7020858,0
+"Serbia","2017","RS","Geothermal",0,"SRB","Population, total","SP.POP.TOTL",7020858,0
+"Serbia","2017","RS","% Renewable",27.88649397,"SRB","Population, total","SP.POP.TOTL",7020858,3.97194957795757
+"Serbia","2018","RS","Wind",150.419,"SRB","Population, total","SP.POP.TOTL",6982604,21.5419634279704
+"Serbia","2018","RS","Hydro",11453.07,"SRB","Population, total","SP.POP.TOTL",6982604,1640.22906067708
+"Serbia","2018","RS","Nuclear",0,"SRB","Population, total","SP.POP.TOTL",6982604,0
+"Serbia","2018","RS","Conventional thermal",23625.089,"SRB","Population, total","SP.POP.TOTL",6982604,3383.42099881362
+"Serbia","2018","RS","Solar",12.608,"SRB","Population, total","SP.POP.TOTL",6982604,1.80563010590318
+"Serbia","2018","RS","Total Renewable",11616.097,"SRB","Population, total","SP.POP.TOTL",6982604,1663.57665421095
+"Serbia","2018","RS","Other",0,"SRB","Population, total","SP.POP.TOTL",6982604,0
+"Serbia","2018","RS","Geothermal",0,"SRB","Population, total","SP.POP.TOTL",6982604,0
+"Serbia","2018","RS","% Renewable",31.92197133,"SRB","Population, total","SP.POP.TOTL",6982604,4.57164280403128
+"Slovenia","2016","SI","Conventional thermal",5121,"SVN","Population, total","SP.POP.TOTL",2065042,2479.85271001752
+"Slovenia","2016","SI","Geothermal",0,"SVN","Population, total","SP.POP.TOTL",2065042,0
+"Slovenia","2016","SI","Nuclear",5431,"SVN","Population, total","SP.POP.TOTL",2065042,2629.97072214512
+"Slovenia","2016","SI","Total Renewable",10425,"SVN","Population, total","SP.POP.TOTL",2065042,5048.32347235553
+"Slovenia","2016","SI","Other",0,"SVN","Population, total","SP.POP.TOTL",2065042,0
+"Slovenia","2016","SI","Hydro",4721,"SVN","Population, total","SP.POP.TOTL",2065042,2286.15204920772
+"Slovenia","2016","SI","% Renewable",65.88094034,"SVN","Population, total","SP.POP.TOTL",2065042,31.9029541965732
+"Slovenia","2016","SI","Solar",267,"SVN","Population, total","SP.POP.TOTL",2065042,129.295191090544
+"Slovenia","2016","SI","Wind",6,"SVN","Population, total","SP.POP.TOTL",2065042,2.90550991214707
+"Slovenia","2017","SI","Wind",5.716,"SVN","Population, total","SP.POP.TOTL",2066388,2.76617943967929
+"Slovenia","2017","SI","Hydro",4085.015,"SVN","Population, total","SP.POP.TOTL",2066388,1976.88672214512
+"Slovenia","2017","SI","Nuclear",5967.827,"SVN","Population, total","SP.POP.TOTL",2066388,2888.04764642458
+"Slovenia","2017","SI","Solar",283.678,"SVN","Population, total","SP.POP.TOTL",2066388,137.282059322838
+"Slovenia","2017","SI","Conventional thermal",5054.64,"SVN","Population, total","SP.POP.TOTL",2066388,2446.12338050744
+"Slovenia","2017","SI","Other",0,"SVN","Population, total","SP.POP.TOTL",2066388,0
+"Slovenia","2017","SI","Geothermal",0,"SVN","Population, total","SP.POP.TOTL",2066388,0
+"Slovenia","2017","SI","% Renewable",66.00707897,"SVN","Population, total","SP.POP.TOTL",2066388,31.9432163611093
+"Slovenia","2017","SI","Total Renewable",10342.236,"SVN","Population, total","SP.POP.TOTL",2066388,5004.98260733221
+"Slovenia","2018","SI","Conventional thermal",4703.068,"SVN","Population, total","SP.POP.TOTL",2073894,2267.7475319375
+"Slovenia","2018","SI","Other",0,"SVN","Population, total","SP.POP.TOTL",2073894,0
+"Slovenia","2018","SI","Geothermal",0,"SVN","Population, total","SP.POP.TOTL",2073894,0
+"Slovenia","2018","SI","Nuclear",5489.906,"SVN","Population, total","SP.POP.TOTL",2073894,2647.14879352561
+"Slovenia","2018","SI","Total Renewable",10581.186,"SVN","Population, total","SP.POP.TOTL",2073894,5102.08622041435
+"Slovenia","2018","SI","Wind",6.02,"SVN","Population, total","SP.POP.TOTL",2073894,2.90275202107726
+"Slovenia","2018","SI","Hydro",4831.147,"SVN","Population, total","SP.POP.TOTL",2073894,2329.50526883245
+"Slovenia","2018","SI","% Renewable",68.38849333,"SVN","Population, total","SP.POP.TOTL",2073894,32.975886583403
+"Slovenia","2018","SI","Solar",254.113,"SVN","Population, total","SP.POP.TOTL",2073894,122.529406035217
+"Spain","2016","ES","Geothermal",0,"ESP","Population, total","SP.POP.TOTL",46484062,0
+"Spain","2016","ES","Conventional thermal",108210,"ESP","Population, total","SP.POP.TOTL",46484062,2327.89466634822
+"Spain","2016","ES","Hydro",39180,"ESP","Population, total","SP.POP.TOTL",46484062,842.869540962233
+"Spain","2016","ES","Total Renewable",156043,"ESP","Population, total","SP.POP.TOTL",46484062,3356.9140321687
+"Spain","2016","ES","Other",91,"ESP","Population, total","SP.POP.TOTL",46484062,1.95766024062183
+"Spain","2016","ES","% Renewable",58.27849444,"ESP","Population, total","SP.POP.TOTL",46484062,1.25373067525811
+"Spain","2016","ES","Solar",13051,"ESP","Population, total","SP.POP.TOTL",46484062,280.762898905005
+"Spain","2016","ES","Wind",47712,"ESP","Population, total","SP.POP.TOTL",46484062,1026.41632308295
+"Spain","2016","ES","Nuclear",56100,"ESP","Population, total","SP.POP.TOTL",46484062,1206.86526921851
+"Spain","2017","ES","Conventional thermal",126885,"ESP","Population, total","SP.POP.TOTL",46593236,2723.24935748185
+"Spain","2017","ES","Wind",47929,"ESP","Population, total","SP.POP.TOTL",46593236,1028.66862477635
+"Spain","2017","ES","Hydro",20708,"ESP","Population, total","SP.POP.TOTL",46593236,444.442193283162
+"Spain","2017","ES","Solar",13778,"ESP","Population, total","SP.POP.TOTL",46593236,295.708158154115
+"Spain","2017","ES","Total Renewable",137955,"ESP","Population, total","SP.POP.TOTL",46593236,2960.83749151916
+"Spain","2017","ES","Other",78,"ESP","Population, total","SP.POP.TOTL",46593236,1.67406273305421
+"Spain","2017","ES","Nuclear",55540,"ESP","Population, total","SP.POP.TOTL",46593236,1192.01851530553
+"Spain","2017","ES","Geothermal",0,"ESP","Population, total","SP.POP.TOTL",46593236,0
+"Spain","2017","ES","% Renewable",51.6362425,"ESP","Population, total","SP.POP.TOTL",46593236,1.1082347339
+"Spain","2018","ES","Solar",12137.315,"ESP","Population, total","SP.POP.TOTL",46797754,259.35678451577
+"Spain","2018","ES","Conventional thermal",110084.238,"ESP","Population, total","SP.POP.TOTL",46797754,2352.34019991643
+"Spain","2018","ES","Other",0,"ESP","Population, total","SP.POP.TOTL",46797754,0
+"Spain","2018","ES","Nuclear",53270.8,"ESP","Population, total","SP.POP.TOTL",46797754,1138.3195868759
+"Spain","2018","ES","Total Renewable",150986.958,"ESP","Population, total","SP.POP.TOTL",46797754,3226.37188955692
+"Spain","2018","ES","Wind",49495.207,"ESP","Population, total","SP.POP.TOTL",46797754,1057.64065087397
+"Spain","2018","ES","Hydro",36083.636,"ESP","Population, total","SP.POP.TOTL",46797754,771.054867291281
+"Spain","2018","ES","% Renewable",57.39190032,"ESP","Population, total","SP.POP.TOTL",46797754,1.22638151224095
+"Spain","2018","ES","Geothermal",0,"ESP","Population, total","SP.POP.TOTL",46797754,0
+"Sweden","2016","SE","Conventional thermal",14621,"SWE","Population, total","SP.POP.TOTL",9923085,1473.43290922128
+"Sweden","2016","SE","Hydro",61764,"SWE","Population, total","SP.POP.TOTL",9923085,6224.2740034979
+"Sweden","2016","SE","Nuclear",60524,"SWE","Population, total","SP.POP.TOTL",9923085,6099.31286490038
+"Sweden","2016","SE","Solar",143,"SWE","Population, total","SP.POP.TOTL",9923085,14.410840983424
+"Sweden","2016","SE","Wind",15479,"SWE","Population, total","SP.POP.TOTL",9923085,1559.89795512182
+"Sweden","2016","SE","Total Renewable",137910,"SWE","Population, total","SP.POP.TOTL",9923085,13897.8956645035
+"Sweden","2016","SE","Other",0,"SWE","Population, total","SP.POP.TOTL",9923085,0
+"Sweden","2016","SE","Geothermal",0,"SWE","Population, total","SP.POP.TOTL",9923085,0
+"Sweden","2016","SE","% Renewable",90.34392401,"SWE","Population, total","SP.POP.TOTL",9923085,9.10441904004652
+"Sweden","2017","SE","Conventional thermal",15003,"SWE","Population, total","SP.POP.TOTL",10057698,1491.69322841072
+"Sweden","2017","SE","Hydro",64676,"SWE","Population, total","SP.POP.TOTL",10057698,6430.49731658278
+"Sweden","2017","SE","Nuclear",63008,"SWE","Population, total","SP.POP.TOTL",10057698,6264.65419820718
+"Sweden","2017","SE","Solar",230,"SWE","Population, total","SP.POP.TOTL",10057698,22.8680558911194
+"Sweden","2017","SE","Wind",17609,"SWE","Population, total","SP.POP.TOTL",10057698,1750.79824429009
+"Sweden","2017","SE","Total Renewable",145523,"SWE","Population, total","SP.POP.TOTL",10057698,14468.8178149712
+"Sweden","2017","SE","Other",0,"SWE","Population, total","SP.POP.TOTL",10057698,0
+"Sweden","2017","SE","Geothermal",0,"SWE","Population, total","SP.POP.TOTL",10057698,0
+"Sweden","2017","SE","% Renewable",90.63973441,"SWE","Population, total","SP.POP.TOTL",10057698,9.01197614106131
+"Sweden","2018","SE","Wind",16638.345,"SWE","Population, total","SP.POP.TOTL",10175214,1635.18379072912
+"Sweden","2018","SE","Hydro",60977.602,"SWE","Population, total","SP.POP.TOTL",10175214,5992.75867809758
+"Sweden","2018","SE","Nuclear",65801.155,"SWE","Population, total","SP.POP.TOTL",10175214,6466.80797082007
+"Sweden","2018","SE","Solar",0,"SWE","Population, total","SP.POP.TOTL",10175214,0
+"Sweden","2018","SE","Conventional thermal",14869.986,"SWE","Population, total","SP.POP.TOTL",10175214,1461.39294957335
+"Sweden","2018","SE","Total Renewable",143417.102,"SWE","Population, total","SP.POP.TOTL",10175214,14094.7504396468
+"Sweden","2018","SE","Other",0,"SWE","Population, total","SP.POP.TOTL",10175214,0
+"Sweden","2018","SE","Geothermal",0,"SWE","Population, total","SP.POP.TOTL",10175214,0
+"Sweden","2018","SE","% Renewable",90.60568604,"SWE","Population, total","SP.POP.TOTL",10175214,8.90454844880904
+"Turkey","2016","TR","Conventional thermal",174166,"TUR","Population, total","SP.POP.TOTL",79821724,2181.93733826145
+"Turkey","2016","TR","Geothermal",4010,"TUR","Population, total","SP.POP.TOTL",79821724,50.236950532414
+"Turkey","2016","TR","Hydro",66686,"TUR","Population, total","SP.POP.TOTL",79821724,835.436728978693
+"Turkey","2016","TR","Nuclear",0,"TUR","Population, total","SP.POP.TOTL",79821724,0
+"Turkey","2016","TR","Other",681,"TUR","Population, total","SP.POP.TOTL",79821724,8.53151204802342
+"Turkey","2016","TR","Wind",15381,"TUR","Population, total","SP.POP.TOTL",79821724,192.69190427408
+"Turkey","2016","TR","% Renewable",33.24845287,"TUR","Population, total","SP.POP.TOTL",79821724,0.41653388581284
+"Turkey","2016","TR","Total Renewable",87090,"TUR","Population, total","SP.POP.TOTL",79821724,1091.05636455559
+"Turkey","2016","TR","Solar",1013,"TUR","Population, total","SP.POP.TOTL",79821724,12.6907807704078
+"Turkey","2017","TR","Other",811.134,"TUR","Population, total","SP.POP.TOTL",81101892,10.0014189557995
+"Turkey","2017","TR","Geothermal",5101.487,"TUR","Population, total","SP.POP.TOTL",81101892,62.902194686161
+"Turkey","2017","TR","% Renewable",29.38755755,"TUR","Population, total","SP.POP.TOTL",81101892,0.362353538558632
+"Turkey","2017","TR","Total Renewable",83536.342,"TUR","Population, total","SP.POP.TOTL",81101892,1030.01717888406
+"Turkey","2017","TR","Solar",2817.837,"TUR","Population, total","SP.POP.TOTL",81101892,34.7444052230002
+"Turkey","2017","TR","Conventional thermal",199910.043,"TUR","Population, total","SP.POP.TOTL",81101892,2464.9245297508
+"Turkey","2017","TR","Wind",17793.167,"TUR","Population, total","SP.POP.TOTL",81101892,219.392748568677
+"Turkey","2017","TR","Hydro",57823.851,"TUR","Population, total","SP.POP.TOTL",81101892,712.977830406225
+"Turkey","2017","TR","Nuclear",0,"TUR","Population, total","SP.POP.TOTL",81101892,0
+"Turkey","2018","TR","Nuclear",0,"TUR","Population, total","SP.POP.TOTL",82319724,0
+"Turkey","2018","TR","Conventional thermal",195153.546,"TUR","Population, total","SP.POP.TOTL",82319724,2370.67784629599
+"Turkey","2018","TR","Geothermal",6275.373,"TUR","Population, total","SP.POP.TOTL",82319724,76.2317060246703
+"Turkey","2018","TR","Hydro",59865.351,"TUR","Population, total","SP.POP.TOTL",82319724,727.22973415217
+"Turkey","2018","TR","Total Renewable",93425.906,"TUR","Population, total","SP.POP.TOTL",82319724,1134.91519966709
+"Turkey","2018","TR","Other",703.126,"TUR","Population, total","SP.POP.TOTL",82319724,8.5414037588367
+"Turkey","2018","TR","Wind",19825.697,"TUR","Population, total","SP.POP.TOTL",82319724,240.837748678555
+"Turkey","2018","TR","% Renewable",32.29572505,"TUR","Population, total","SP.POP.TOTL",82319724,0.392320618689149
+"Turkey","2018","TR","Solar",7459.485,"TUR","Population, total","SP.POP.TOTL",82319724,90.6160108116981
+"Ukraine","2016","UA","Conventional thermal",65415,"UKR","Population, total","SP.POP.TOTL",45004674,1453.5156948365
+"Ukraine","2016","UA","Other",79,"UKR","Population, total","SP.POP.TOTL",45004674,1.75537323078932
+"Ukraine","2016","UA","Geothermal",0,"UKR","Population, total","SP.POP.TOTL",45004674,0
+"Ukraine","2016","UA","Nuclear",75931,"UKR","Population, total","SP.POP.TOTL",45004674,1687.1803137603
+"Ukraine","2016","UA","Total Renewable",86395,"UKR","Population, total","SP.POP.TOTL",45004674,1919.68949713979
+"Ukraine","2016","UA","Wind",949,"UKR","Population, total","SP.POP.TOTL",45004674,21.0866986837856
+"Ukraine","2016","UA","Hydro",9025,"UKR","Population, total","SP.POP.TOTL",45004674,200.534726681944
+"Ukraine","2016","UA","% Renewable",56.2753221,"UKR","Population, total","SP.POP.TOTL",45004674,1.25043283504287
+"Ukraine","2016","UA","Solar",490,"UKR","Population, total","SP.POP.TOTL",45004674,10.8877580137565
+"Ukraine","2017","UA","Conventional thermal",54041.9,"UKR","Population, total","SP.POP.TOTL",44831135,1205.45464664234
+"Ukraine","2017","UA","Wind",974,"UKR","Population, total","SP.POP.TOTL",44831135,21.7259723627341
+"Ukraine","2017","UA","Hydro",8812,"UKR","Population, total","SP.POP.TOTL",44831135,196.559823881327
+"Ukraine","2017","UA","Nuclear",80295.3,"UKR","Population, total","SP.POP.TOTL",44831135,1791.06105611647
+"Ukraine","2017","UA","Solar",737.6,"UKR","Population, total","SP.POP.TOTL",44831135,16.4528513498487
+"Ukraine","2017","UA","Total Renewable",90818.9,"UKR","Population, total","SP.POP.TOTL",44831135,2025.79970371038
+"Ukraine","2017","UA","Other",45,"UKR","Population, total","SP.POP.TOTL",44831135,1.00376669027005
+"Ukraine","2017","UA","Geothermal",0,"UKR","Population, total","SP.POP.TOTL",44831135,0
+"Ukraine","2017","UA","% Renewable",62.0073219,"UKR","Population, total","SP.POP.TOTL",44831135,1.38313076169051
+"Ukraine","2018","UA","Solar",737.8,"UKR","Population, total","SP.POP.TOTL",44622518,16.5342529527357
+"Ukraine","2018","UA","Conventional thermal",60830.7,"UKR","Population, total","SP.POP.TOTL",44622518,1363.22876266194
+"Ukraine","2018","UA","Other",0,"UKR","Population, total","SP.POP.TOTL",44622518,0
+"Ukraine","2018","UA","Geothermal",0,"UKR","Population, total","SP.POP.TOTL",44622518,0
+"Ukraine","2018","UA","Nuclear",84397.9,"UKR","Population, total","SP.POP.TOTL",44622518,1891.37466424463
+"Ukraine","2018","UA","Total Renewable",98241.8,"UKR","Population, total","SP.POP.TOTL",44622518,2201.61937074013
+"Ukraine","2018","UA","Wind",1185.9,"UKR","Population, total","SP.POP.TOTL",44622518,26.5762680626853
+"Ukraine","2018","UA","Hydro",11920.2,"UKR","Population, total","SP.POP.TOTL",44622518,267.134185480075
+"Ukraine","2018","UA","% Renewable",61.75913499,"UKR","Population, total","SP.POP.TOTL",44622518,1.38403518577773
+"United Kingdom","2016","UK","Conventional thermal",203165.188,"GBR","Population, total","SP.POP.TOTL",65611593,3096.48308645699
+"United Kingdom","2016","UK","Geothermal",0,"GBR","Population, total","SP.POP.TOTL",65611593,0
+"United Kingdom","2016","UK","Hydro",8286.51,"GBR","Population, total","SP.POP.TOTL",65611593,126.296430571347
+"United Kingdom","2016","UK","Nuclear",65149.08,"GBR","Population, total","SP.POP.TOTL",65611593,992.95074271402
+"United Kingdom","2016","UK","Other",0,"GBR","Population, total","SP.POP.TOTL",65611593,0
+"United Kingdom","2016","UK","Wind",37262.699,"GBR","Population, total","SP.POP.TOTL",65611593,567.928582377203
+"United Kingdom","2016","UK","% Renewable",37.01118822,"GBR","Population, total","SP.POP.TOTL",65611593,0.564095254020124
+"United Kingdom","2016","UK","Total Renewable",121109.237,"GBR","Population, total","SP.POP.TOTL",65611593,1845.85118974325
+"United Kingdom","2016","UK","Solar",10410.948,"GBR","Population, total","SP.POP.TOTL",65611593,158.675434080681
+"United Kingdom","2017","UK","Other",0,"GBR","Population, total","SP.POP.TOTL",66058859,0
+"United Kingdom","2017","UK","Geothermal",0,"GBR","Population, total","SP.POP.TOTL",66058859,0
+"United Kingdom","2017","UK","% Renewable",41.10937866,"GBR","Population, total","SP.POP.TOTL",66058859,0.622314391775977
+"United Kingdom","2017","UK","Total Renewable",134138.814,"GBR","Population, total","SP.POP.TOTL",66058859,2030.59538161263
+"United Kingdom","2017","UK","Solar",11524.87,"GBR","Population, total","SP.POP.TOTL",66058859,174.46365520785
+"United Kingdom","2017","UK","Conventional thermal",189296.528,"GBR","Population, total","SP.POP.TOTL",66058859,2865.57368482553
+"United Kingdom","2017","UK","Wind",50003.654,"GBR","Population, total","SP.POP.TOTL",66058859,756.956065499103
+"United Kingdom","2017","UK","Hydro",8723.43,"GBR","Population, total","SP.POP.TOTL",66058859,132.055414399452
+"United Kingdom","2017","UK","Nuclear",63886.86,"GBR","Population, total","SP.POP.TOTL",66058859,967.120246506226
+"United Kingdom","2018","UK","Nuclear",59097.753,"GBR","Population, total","SP.POP.TOTL",66460344,889.218283311925
+"United Kingdom","2018","UK","Conventional thermal",180837.905,"GBR","Population, total","SP.POP.TOTL",66460344,2720.98960246128
+"United Kingdom","2018","UK","Geothermal",0,"GBR","Population, total","SP.POP.TOTL",66460344,0
+"United Kingdom","2018","UK","Hydro",7678.659,"GBR","Population, total","SP.POP.TOTL",66460344,115.537454937037
+"United Kingdom","2018","UK","Total Renewable",136537.722,"GBR","Population, total","SP.POP.TOTL",66460344,2054.42394339698
+"United Kingdom","2018","UK","Other",0,"GBR","Population, total","SP.POP.TOTL",66460344,0
+"United Kingdom","2018","UK","Wind",56903.961,"GBR","Population, total","SP.POP.TOTL",66460344,856.20924562172
+"United Kingdom","2018","UK","% Renewable",42.68249349,"GBR","Population, total","SP.POP.TOTL",66460344,0.642224985925442
+"United Kingdom","2018","UK","Solar",12857.349,"GBR","Population, total","SP.POP.TOTL",66460344,193.4589595263
+"United States","2016","US","Conventional thermal",2950784.353,"USA","Population, total","SP.POP.TOTL",322941311,9137.21550167362
+"United States","2016","US","Crude Oil",835807.8798,"USA","Population, total","SP.POP.TOTL",322941311,2588.11075365951
+"United States","2016","US","Geothermal",9450.595227,"USA","Population, total","SP.POP.TOTL",322941311,29.2641260349624
+"United States","2016","US","Hydro",111477.0668,"USA","Population, total","SP.POP.TOTL",322941311,345.192959224718
+"United States","2016","US","Natural Gas",726834.4628,"USA","Population, total","SP.POP.TOTL",322941311,2250.67044085914
+"United States","2016","US","Nuclear",379944.2362,"USA","Population, total","SP.POP.TOTL",322941311,1176.51171670632
+"United States","2016","US","Other",228814.6533,"USA","Population, total","SP.POP.TOTL",322941311,708.53323965109
+"United States","2016","US","Solar",25716.6935,"USA","Population, total","SP.POP.TOTL",322941311,79.6327153697596
+"United States","2016","US","Total",3800673.621,"USA","Population, total","SP.POP.TOTL",322941311,11768.9298071872
+"United States","2016","US","Total Renewable",469944.9421,"USA","Population, total","SP.POP.TOTL",322941311,1455.20231104778
+"United States","2016","US","Wind",94485.88817,"USA","Population, total","SP.POP.TOTL",322941311,292.579131104103
+"United States","2016","US","% Renewable",12.36478027,"USA","Population, total","SP.POP.TOTL",322941311,0.0382880103871257
+"United States","2017","US","Coal",704514.7674,"USA","Population, total","SP.POP.TOTL",324985539,2167.83420446286
+"United States","2017","US","Conventional thermal",3087507.644,"USA","Population, total","SP.POP.TOTL",324985539,9500.44624600973
+"United States","2017","US","Crude Oil",882629.9062,"USA","Population, total","SP.POP.TOTL",324985539,2715.90517201444
+"United States","2017","US","Geothermal",9478.932945,"USA","Population, total","SP.POP.TOTL",324985539,29.1672453308761
+"United States","2017","US","Hydro",124756.5905,"USA","Population, total","SP.POP.TOTL",324985539,383.883513352266
+"United States","2017","US","Natural Gas",750181.485,"USA","Population, total","SP.POP.TOTL",324985539,2308.3534341508
+"United States","2017","US","Nuclear",379593.2272,"USA","Population, total","SP.POP.TOTL",324985539,1168.03113260987
+"United States","2017","US","Other",229891.5993,"USA","Population, total","SP.POP.TOTL",324985539,707.390242677844
+"United States","2017","US","Solar",35037.07499,"USA","Population, total","SP.POP.TOTL",324985539,107.81118168461
+"United States","2017","US","Total",3971901.049,"USA","Population, total","SP.POP.TOTL",324985539,12221.7778096274
+"United States","2017","US","Total Renewable",504800.1327,"USA","Population, total","SP.POP.TOTL",324985539,1553.30029223239
+"United States","2017","US","Wind",105635.9349,"USA","Population, total","SP.POP.TOTL",324985539,325.048108986782
+"United States","2017","US","% Renewable",12.7092827,"USA","Population, total","SP.POP.TOTL",324985539,0.0391072253218012
+"United States","2018","US","Coal",692704.702,"USA","Population, total","SP.POP.TOTL",326687501,2120.38936255477
+"United States","2018","US","Conventional thermal",3417991.357,"USA","Population, total","SP.POP.TOTL",326687501,10462.5715600916
+"United States","2018","US","Crude Oil",1029571.999,"USA","Population, total","SP.POP.TOTL",326687501,3151.55001598913
+"United States","2018","US","Geothermal",9417.252757,"USA","Population, total","SP.POP.TOTL",326687501,28.8264862542139
+"United States","2018","US","Hydro",120075.1859,"USA","Population, total","SP.POP.TOTL",326687501,367.553657646669
+"United States","2018","US","Natural Gas",847857.3504,"USA","Population, total","SP.POP.TOTL",326687501,2595.31615934091
+"United States","2018","US","Nuclear",380454.4053,"USA","Population, total","SP.POP.TOTL",326687501,1164.58206737453
+"United States","2018","US","Other",236192.0412,"USA","Population, total","SP.POP.TOTL",326687501,722.990749499167
+"United States","2018","US","Solar",41278.56452,"USA","Population, total","SP.POP.TOTL",326687501,126.35489387762
+"United States","2018","US","Total",4317333.303,"USA","Population, total","SP.POP.TOTL",326687501,13215.4835730921
+"United States","2018","US","Total Renewable",518887.473,"USA","Population, total","SP.POP.TOTL",326687501,1588.32973839425
+"United States","2018","US","Wind",111924.4962,"USA","Population, total","SP.POP.TOTL",326687501,342.604157971749
+"United States","2018","US","% Renewable",12.01870313,"USA","Population, total","SP.POP.TOTL",326687501,0.0367896019688859
+"United States","2019","US","Coal",642761.7843,"USA","Population, total","SP.POP.TOTL",328239523,1958.20959775158
+"United States","2019","US","Conventional thermal",3667396.057,"USA","Population, total","SP.POP.TOTL",328239523,11172.9264760112
+"United States","2019","US","Crude Oil",1148526.166,"USA","Population, total","SP.POP.TOTL",328239523,3499.04897345345
+"United States","2019","US","Geothermal",9074.787937,"USA","Population, total","SP.POP.TOTL",328239523,27.6468471988366
+"United States","2019","US","Hydro",115570.4356,"USA","Population, total","SP.POP.TOTL",328239523,352.091772933755
+"United States","2019","US","Natural Gas",938054.0532,"USA","Population, total","SP.POP.TOTL",328239523,2857.83395194612
+"United States","2019","US","Nuclear",381075.8963,"USA","Population, total","SP.POP.TOTL",328239523,1160.96895589262
+"United States","2019","US","Other",229958.9606,"USA","Population, total","SP.POP.TOTL",328239523,700.582789355321
+"United States","2019","US","Solar",45900.00226,"USA","Population, total","SP.POP.TOTL",328239523,139.836914947016
+"United States","2019","US","Total",4567370.044,"USA","Population, total","SP.POP.TOTL",328239523,13914.7473840315
+"United States","2019","US","Total Renewable",518898.0461,"USA","Population, total","SP.POP.TOTL",328239523,1580.85181625127
+"United States","2019","US","Wind",118393.747,"USA","Population, total","SP.POP.TOTL",328239523,360.69314846037
+"United States","2019","US","% Renewable",11.36098107,"USA","Population, total","SP.POP.TOTL",328239523,0.0346118619907938
+"United States","2020","US","Coal",264567.0382,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Conventional thermal",1854826.241,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Crude Oil",577977.3891,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Geothermal",5191.138591,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Hydro",64300.52587,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Natural Gas",506140.8776,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Nuclear",201452.3364,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Other",115219.6904,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Solar",31868.43114,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Total",2343722.275,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Total Renewable",287443.6092,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","Wind",70863.88184,"USA","Population, total","SP.POP.TOTL",NA,NA
+"United States","2020","US","% Renewable",12.26440574,"USA","Population, total","SP.POP.TOTL",NA,NA
