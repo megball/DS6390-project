@@ -262,13 +262,14 @@ df2 %>%
   geom_bar(stat = "identity") +
   scale_fill_manual(values = c("1"="#FFCC33", "0"="darkgray"), guide = FALSE )+
   geom_text(vjust =1.5 , color = "black", size = 4) +
-  labs(title = "System Average Interruption Duration Index (SAIDI) measured in minutes",
-       subtitle = "The US has the highest SAIDI out of these countries with higher renewable energy generation") +
+  labs(title = "System Average Interruption Duration Index (SAIDI)",
+       subtitle = "measured in minutes") +
   theme(axis.text.x = element_text(size = 12),
         axis.title.x = element_blank(),
         axis.title.y = element_blank(),
         panel.background = element_blank(),
-        plot.title = element_text(size = 13),
+        plot.title = element_text(size = 14),
+        plot.subtitle = element_text(size = 12),
         legend.position = "")
 
 ggsave("plots/saidi.png", dpi = "retina", width=20, height =20, units = "cm")
@@ -281,13 +282,14 @@ df2 %>%
   geom_bar(stat = "identity") +
   scale_fill_manual(values = c("1"="#FFCC33", "0"="darkgray"), guide = FALSE )+
   geom_text(vjust =1.5 , color = "black", size = 4) +
-  labs(title = "System Average Interruption Frequency Index (SAIFI) measured in interruptions per customer",
-       subtitle = "The US also has the highest SAIFI out of these countries with higher renewable energy generation") +
+  labs(title = "System Average Interruption Frequency Index (SAIFI)",
+       subtitle = "measured in interruptions per customer") +
   theme(axis.text.x = element_text(size = 12),
         axis.title.x = element_blank(),
         axis.title.y = element_blank(),
         panel.background = element_blank(),
-        plot.title = element_text(size = 13),
+        plot.title = element_text(size = 14),
+        plot.subtitle = element_text(size = 12),
         legend.position = "")
 
 ggsave("plots/saifi.png", dpi = "retina", width=20, height =20, units = "cm")
