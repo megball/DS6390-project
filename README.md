@@ -7,6 +7,6 @@
 ### <u> Additional data sources:</u><br>
 <a href = "https://www.ceer.eu/documents/104400/-/-/963153e6-2f42-78eb-22a4-06f1552dd34c">Europe outage data</a> <br>
 <a href ="https://www.eia.gov/electricity/data/eia861/">US outage data</a> <br>
-US & EU energy generation (<a href="https://data.worldbank.org/indicator/EG.ELC.RNWX.ZS?end=2015&start=2001 ">% renewable</a>, <a href= "https://data.worldbank.org/indicator/EG.ELC.HYRO.ZS">% hydro</a>, % thermal) <br> 
+US & EU energy generation (<a href="https://data.worldbank.org/indicator/EG.ELC.RNWX.ZS?end=2015&start=2001 ">% renewable</a>, <a href= "https://data.worldbank.org/indicator/EG.ELC.HYRO.ZS">% hydro</a>, <a href = "https://data.worldbank.org/indicator/EG.ELC.FOSL.ZS?end=2015&start=2001">% thermal</a>) <br> 
 <a href ="https://www.eia.gov/totalenergy/data/annual/index.php">US 2016 breakdown</a> <br>
 <a href ="https://github.com/owid/co2-data">Greenhouse gas emissions</a>
