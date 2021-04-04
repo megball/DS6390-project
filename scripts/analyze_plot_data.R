@@ -271,6 +271,8 @@ df2 %>%
         plot.title = element_text(size = 13),
         legend.position = "")
 
+ggsave("plots/saidi.png", dpi = "retina", width=20, height =20, units = "cm")
+
 #plot SAIFI - bar
 df2 %>%
   filter(country %in% c("United States","United Kingdom", "Germany", "France", "Ireland")) %>%
@@ -287,6 +289,8 @@ df2 %>%
         panel.background = element_blank(),
         plot.title = element_text(size = 13),
         legend.position = "")
+
+ggsave("plots/saifi.png", dpi = "retina", width=20, height =20, units = "cm")
 
 
 df2 %>%
